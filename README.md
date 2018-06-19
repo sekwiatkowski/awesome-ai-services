@@ -6,7 +6,7 @@
 ## Entity recognition
 
 ### Amazon Comprehend
-[Overview] (https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html)
+[Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html)
 
 - Which entities are mentioned?
 - How often is each of these entities mentioned?
