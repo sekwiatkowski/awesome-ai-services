@@ -1,6 +1,7 @@
 # awesome-ai-services
 
 ## Table of Contents
+- [Entity recognition](#entity-recognition)
 - [Face recognition](#face-recognition)
 
 ## Entity recognition
