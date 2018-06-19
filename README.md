@@ -10,8 +10,8 @@
 
 ### Natural Language
 - [Entity recognition](#entity-recognition)
+- [Keyphrase extraction](#keyphrase-extraction)
 - [Sentiment analysis](#sentiment-analysis)
-- [Keyword extraction](#keyword-extraction)
 
 ### Vision
 - [Face recognition](#face-recognition)
@@ -75,7 +75,7 @@ Supported entity types:
 - What are the URLs to the corresponding Wikipedia entries?
 - What are their Wikipedia and Bing IDs?
 
-## Keyword extraction
+## Keyphrase extraction
 
 ### Amazon Comprehend
 [Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction)
