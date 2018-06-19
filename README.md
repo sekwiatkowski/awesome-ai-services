@@ -8,6 +8,7 @@
 
 ## Table of Contents
 - [Entity recognition](#entity-recognition)
+- [Keyword extraction](#keyword-extraction)
 - [Face recognition](#face-recognition)
 
 ## Entity recognition
@@ -65,6 +66,8 @@ Supported entity types:
 - Where in the document are they mentioned?
 - What are the URLs to the corresponding Wikipedia entries?
 - What are their Wikipedia and Bing IDs?
+
+## Keyword extraction
 
 ## Face recognition
 
