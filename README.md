@@ -168,6 +168,16 @@ Supported entity types:
 - Where in the image file is text located?
 - What is the text content?
 
+### Google Cloud Vision
+[Overview](https://cloud.google.com/vision/docs/ocr)
+
+- Where in the image file is text located?
+- What is the text content?
+- What is the language of the text content?
+
+### IBM Watson Visual Recognition
+*This feature is currently in private beta.*
+
 ### Microsoft Cognitive Services Computer Vision
 [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text)
 
