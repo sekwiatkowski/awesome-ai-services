@@ -3,6 +3,25 @@
 ## Table of Contents
 - [Face recognition](#face-recognition)
 
+## Entity recognition
+
+### Amazon Comprehend
+[Overview] (https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html)
+
+- Which entities are mentioned?
+- How often is each of these entities mentioned?
+
+Support entity types:
+- commercial items
+- dates
+- events
+- locations
+- organizations
+- persons
+- quantities
+- other types
+- titles
+
 ## Face recognition
 
 ### Amazon Rekognition
@@ -31,13 +50,13 @@
 [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
 
 - What are the faces and face parts localed in the image?
+- Are parts of the face occluded?
 - What is the pose of the head?
 - Are the faces in two images of the same person?
 - What is the age of the person?
 - What is the gender?
-- Is the person smiling?
-- Are parts of the face occluded?
 - Does the face express the emotional states of anger, contempt, disgust, fear, happiness sadness, surprise or a neutral state?
+- Is the person smiling?
 - Is the hair visibile? What is the hair color? Or is the person bald?
 - Does the person have moustache, a beard or sideburns?
 - What kind of acessories is the person wearing, if any?
