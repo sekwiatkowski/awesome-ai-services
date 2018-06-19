@@ -18,7 +18,7 @@
 - Which entities are mentioned?
 - How often is each of these entities mentioned?
 
-Support entity types:
+Supported entity types:
 - commercial items
 - dates
 - events
@@ -28,6 +28,23 @@ Support entity types:
 - quantities
 - other types
 - titles
+
+### Google Cloud Natural Language
+[Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity)
+
+- Which entities are mentioned?
+- How salient is each of these entities in the document?
+- Where in the text are these entities mentioned?
+- What are the URLs to the corresponding Wikipedia entries?
+
+Supported entity types:
+- consumer good
+- event
+- location
+- organization
+- person
+- work of art
+- other type
 
 ## Face recognition
 
