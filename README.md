@@ -90,13 +90,13 @@ Supported entity types:
 ### Google Cloud Natural Language
 *Not supported*
 
-### Microsoft Cognitive Services Text Analytics
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction)
+### IBM Watson Natural Understanding
+[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities)
 
 - Which keywords can be extracted for the given document?
 
-### IBM Watson Natural Understanding
-[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities)
+### Microsoft Cognitive Services Text Analytics
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction)
 
 - Which keywords can be extracted for the given document?
 
@@ -112,21 +112,55 @@ Supported entity types:
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
-### Microsoft Cognitive Services Text Analytics
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
-
-- To what extent does the document express an overal positive, negative or neutral sentiment?
-
 ### IBM Watson Natural Understanding
 [Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#sentiment)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
+### Microsoft Cognitive Services Text Analytics
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
+
+- To what extent does the document express an overal positive, negative or neutral sentiment?
+
 # Speech
+
+## Speech-to-text
 
 ## Text-to-speech
 
-## Speech-to-text
+### Amazon Polly
+
+[Overview](https://aws.amazon.com/polly/)
+
+SSML extensions:
+- Breathing
+- Dynamic Range Compression
+- Speaking softly
+- Timbre
+- Whispering
+
+### Google Text-to-Speech (Beta)
+
+[Overview](https://cloud.google.com/text-to-speech/)
+
+### IBM Watson Text to Speech
+
+[Overview](https://www.ibm.com/watson/services/text-to-speech/)
+
+SSML extensions:
+- Good news
+- Apology
+- Uncertainty
+
+Customization:
+- Pitch
+- Glottal tension
+- Breathiness
+- Timbre
+
+### Microsoft Cognitive Services Text to Speech (Preview)
+
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
 
 # Vision
 
