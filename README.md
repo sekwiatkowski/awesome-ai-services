@@ -1,5 +1,10 @@
 # awesome-ai-services
 
+## Table of Contents
+- [Face recognition](#face-recognition)
+
+## Face recognition
+
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
