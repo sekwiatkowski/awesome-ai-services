@@ -71,9 +71,15 @@ Supported entity types:
 
 ## Keyword extraction
 
-### IBM Watson Natural Understanding
+### Amazon Comprehend
+[Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction)
 
+- Which keywords can be extracted for the given document?
+- How often do each of these keywords occur?
+
+### IBM Watson Natural Understanding
 [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/index.html#keywords)
+
 - Which keywords can be extracted for the given document?
 
 ## Face recognition
