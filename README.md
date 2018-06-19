@@ -92,7 +92,7 @@ Supported entity types:
 - Which keywords can be extracted for the given document?
 
 ### IBM Watson Natural Understanding
-[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/index.html#keywords)
+[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities)
 
 - Which keywords can be extracted for the given document?
 
