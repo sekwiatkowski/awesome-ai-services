@@ -7,11 +7,15 @@
 - [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http://github.com/sekwiatkowski/awesome-ai-services)
 
 ## Table of Contents
+
 ### Natural Language
 - [Entity recognition](#entity-recognition)
+- [Sentiment analysis](#sentiment-analysis)
 - [Keyword extraction](#keyword-extraction)
+
 ### Vision
 - [Face recognition](#face-recognition)
+- [Text recognition](#text-recognition)
 
 # Natural language
 
@@ -91,6 +95,22 @@ Supported entity types:
 [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/index.html#keywords)
 
 - Which keywords can be extracted for the given document?
+
+## Sentiment analysis
+
+### Amazon Comprehend
+[Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis)
+
+### Google Cloud Natural Language
+[Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment)
+
+### Microsoft Cognitive Services Text Analytics
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
+
+### IBM Watson Natural Understanding
+[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#sentiment)
+
+# Vision
 
 ## Face recognition
 
