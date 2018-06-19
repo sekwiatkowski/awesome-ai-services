@@ -13,6 +13,8 @@
 ### Vision
 - [Face recognition](#face-recognition)
 
+# Natural language
+
 ## Entity recognition
 
 ### Amazon Comprehend
@@ -76,6 +78,14 @@ Supported entity types:
 
 - Which keywords can be extracted for the given document?
 - How often do each of these keywords occur?
+
+### Google Cloud Natural Language
+*Not supported*
+
+### Microsoft Cognitive Services Text Analytics
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction)
+
+- Which keywords can be extracted for the given document?
 
 ### IBM Watson Natural Understanding
 [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/index.html#keywords)
