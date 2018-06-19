@@ -160,6 +160,20 @@ Supported entity types:
 - What kind of acessories is the person wearing, if any?
 - What kind of glasses is the person wearing, if any?
 
+## Text recognition
+
+### Amazon Rekognition
+[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html)
+
+- Where in the image file is text located?
+- What is the text content?
+
+### Microsoft Cognitive Services Computer Vision
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text)
+
+- Where in the image file is text located?
+- What is the text content?
+
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
