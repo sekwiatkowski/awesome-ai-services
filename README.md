@@ -15,7 +15,8 @@
 ### Amazon Comprehend
 [Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html)
 
-- Which entities are mentioned?
+- What are the entities mentioned in the document?
+- What are their types?
 - How often is each of these entities mentioned?
 
 Supported entity types:
@@ -32,7 +33,8 @@ Supported entity types:
 ### Google Cloud Natural Language
 [Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity)
 
-- Which entities are mentioned?
+- What are the entities mentioned in the document?
+- What are their types?
 - How salient is each of these entities in the document?
 - Where in the text are these entities mentioned?
 - What are the URLs to the corresponding Wikipedia entries?
@@ -45,6 +47,15 @@ Supported entity types:
 - person
 - work of art
 - other type
+
+### IBM Watson Natural Understanding
+
+- What are the entities mentioned in the document?
+- What are their types and subtypes?
+
+- Supported entity types:
+- Types: anatomy, award, broadcaster, company, crime, drug, email address, facility, geographic feature, health condition, hashtag, ip address, job title, location, movie, musicgroup, natural event, organization, person, print media, quantity, sport, sporting event, television show, twitter handle, vehicle
+- [Subtypes](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types-v1.html#entity-types-and-subtypes-version-1-#entity-subtypes)
 
 ## Face recognition
 
