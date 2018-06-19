@@ -101,14 +101,22 @@ Supported entity types:
 ### Amazon Comprehend
 [Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis)
 
+- To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
+
 ### Google Cloud Natural Language
 [Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment)
+
+- To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### Microsoft Cognitive Services Text Analytics
 [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
 
+- To what extent does the document express an overal positive, negative or neutral sentiment?
+
 ### IBM Watson Natural Understanding
 [Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#sentiment)
+
+- To what extent does the document express an overal positive, negative or neutral sentiment?
 
 # Vision
 
