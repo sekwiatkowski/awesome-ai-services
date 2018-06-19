@@ -13,6 +13,10 @@
 - [Keyphrase extraction](#keyphrase-extraction)
 - [Sentiment analysis](#sentiment-analysis)
 
+## Speech
+- [Speech-to-text](#speech-to-text)
+- [Text-to-speech](#text-to-speech)
+
 ### Vision
 - [Face recognition](#face-recognition)
 - [Text recognition](#text-recognition)
@@ -117,6 +121,12 @@ Supported entity types:
 [Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#sentiment)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
+
+# Speech
+
+## Text-to-speech
+
+## Speech-to-text
 
 # Vision
 
