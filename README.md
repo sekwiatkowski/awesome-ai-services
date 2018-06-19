@@ -7,8 +7,10 @@
 - [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http://github.com/sekwiatkowski/awesome-ai-services)
 
 ## Table of Contents
+### Natural Language
 - [Entity recognition](#entity-recognition)
 - [Keyword extraction](#keyword-extraction)
+### Vision
 - [Face recognition](#face-recognition)
 
 ## Entity recognition
@@ -68,6 +70,11 @@ Supported entity types:
 - What are their Wikipedia and Bing IDs?
 
 ## Keyword extraction
+
+### IBM Watson Natural Understanding
+
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/index.html#keywords)
+- Which keywords can be extracted for the given document?
 
 ## Face recognition
 
