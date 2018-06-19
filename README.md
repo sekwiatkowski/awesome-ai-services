@@ -20,6 +20,13 @@
 - Does the face express the emotional states of joy, sorrow, anger or surprise?
 - Is the person wearing headwear?
 
+### IBM Watson Visual Recognition
+[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm)
+
+- What are the coordinates of the bounding boxes that contain faces and face parts?
+- What are the age ranges of the persons?
+- What are their genders?
+
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
