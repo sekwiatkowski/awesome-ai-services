@@ -1,5 +1,11 @@
 # awesome-ai-services
 
+## Sharing
+- [Share on Twitter](http://twitter.com/home?status=http://github.com/sekwiatkowski/awesome-ai-services)
+- [Share on Facebook](http://www.facebook.com/sharer/sharer.php?u=http://github.com/sekwiatkowski/awesome-ai-services)
+- [Share on Google Plus](http://plus.google.com/share?url=http://github.com/sekwiatkowski/awesome-ai-services)
+- [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http://github.com/sekwiatkowski/awesome-ai-services)
+
 ## Table of Contents
 - [Entity recognition](#entity-recognition)
 - [Face recognition](#face-recognition)
