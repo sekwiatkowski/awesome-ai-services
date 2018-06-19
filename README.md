@@ -58,7 +58,7 @@ Supported entity types:
 - Types: anatomy, award, broadcaster, company, crime, drug, email address, facility, geographic feature, health condition, hashtag, ip address, job title, location, movie, music group, natural event, organization, person, print media, quantity, sport, sporting event, television show, twitter handle, vehicle
 - [Subtypes](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types-v1.html#entity-types-and-subtypes-version-1-#entity-subtypes)
 
-## Microsoft Cognitive Services Text Analytics
+## Microsoft Cognitive Services Text Analytics (Preview)
 [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking)
 
 - What are the entities mentioned in the document?
