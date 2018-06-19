@@ -49,13 +49,22 @@ Supported entity types:
 - other type
 
 ### IBM Watson Natural Understanding
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types.html)
 
 - What are the entities mentioned in the document?
 - What are their types and subtypes?
 
 - Supported entity types:
-- Types: anatomy, award, broadcaster, company, crime, drug, email address, facility, geographic feature, health condition, hashtag, ip address, job title, location, movie, musicgroup, natural event, organization, person, print media, quantity, sport, sporting event, television show, twitter handle, vehicle
+- Types: anatomy, award, broadcaster, company, crime, drug, email address, facility, geographic feature, health condition, hashtag, ip address, job title, location, movie, music group, natural event, organization, person, print media, quantity, sport, sporting event, television show, twitter handle, vehicle
 - [Subtypes](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types-v1.html#entity-types-and-subtypes-version-1-#entity-subtypes)
+
+## Microsoft Cognitive Services Text Analytics
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking)
+
+- What are the entities mentioned in the document?
+- Where in the document are they mentioned?
+- What are the URLs to the corresponding Wikipedia entries?
+- What are their Wikipedia and Bing IDs?
 
 ## Face recognition
 
