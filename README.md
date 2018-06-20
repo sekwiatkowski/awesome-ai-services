@@ -28,7 +28,7 @@ A curated list of awesome AI services maintained by Sebastian Kwiatkowski.
 ## Entity Recognition
 
 ### Amazon Comprehend
-[Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
+[Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -37,7 +37,7 @@ A curated list of awesome AI services maintained by Sebastian Kwiatkowski.
 Supported entity types: commercial items, dates, events, locations, organizations, persons, quantities, other types, titles
 
 ### Google Cloud Natural Language
-[Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) [Demo](https://cloud.google.com/natural-language/)
+[Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Demo](https://cloud.google.com/natural-language/)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -48,7 +48,7 @@ Supported entity types: commercial items, dates, events, locations, organization
 Supported entity types: consumer good, event, location, organization, person, work of art, other types
 
 ### IBM Watson Natural Understanding
-[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities) [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
 
 - What are the entities mentioned in the document?
 - What are their types and subtypes?
@@ -57,8 +57,8 @@ Supported entity types:
 - Types: anatomy, award, broadcaster, company, crime, drug, email address, facility, geographic feature, health condition, hashtag, ip address, job title, location, movie, music group, natural event, organization, person, print media, quantity, sport, sporting event, television show, twitter handle, vehicle
 - [Subtypes](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types-v1.html#entity-types-and-subtypes-version-1-#entity-subtypes)
 
-## Microsoft Cognitive Services Text Analytics (Preview) [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking)
+## Microsoft Cognitive Services Text Analytics (Preview)
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
 
 - What are the entities mentioned in the document?
 - Where in the document are they mentioned?
@@ -68,7 +68,7 @@ Supported entity types:
 ## Keyphrase Extraction
 
 ### Amazon Comprehend
-[Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction) [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
+[Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
 
 - Which keywords can be extracted for the given document?
 - How often do each of these keywords occur?
@@ -77,11 +77,11 @@ Supported entity types:
 *Not supported*
 
 ### IBM Watson Natural Understanding
-[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities) [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
 
 - Which keywords can be extracted for the given document?
 
-### Microsoft Cognitive Services Text Analytics [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+### Microsoft Cognitive Services Text Analytics | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
 [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction)
 
 - Which keywords can be extracted for the given document?
@@ -89,7 +89,7 @@ Supported entity types:
 ## Sentiment Analysis
 
 ### Amazon Comprehend
-[Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
+[Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
@@ -99,12 +99,12 @@ Supported entity types:
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### IBM Watson Natural Understanding
-[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#sentiment) [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#sentiment) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
-### Microsoft Cognitive Services Text Analytics [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis)
+### Microsoft Cognitive Services Text Analytics
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
