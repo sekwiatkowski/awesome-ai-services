@@ -1,0 +1,52 @@
+{ 
+  "KeyPhrases": [
+    {
+      "BeginOffset": 0,
+      "EndOffset": 16,
+      "Score": 0.9264497756958008,
+      "Text": Machine learning
+    },
+    {
+      "BeginOffset": 22,
+      "EndOffset": 44,
+      "Score": 0.9996361136436462,
+      "Text": statistical techniques
+    },
+    {
+      "BeginOffset": 53,
+      "EndOffset": 62,
+      "Score": 0.9979562759399414,
+      "Text": computers
+    },
+    {
+      "BeginOffset": 63,
+      "EndOffset": 74,
+      "Score": 0.9983481168746948,
+      "Text": the ability
+    },
+    {
+      "BeginOffset": 87,
+      "EndOffset": 91,
+      "Score": 0.809405505657196,
+      "Text": i.e.
+    },
+    {
+      "BeginOffset": 115,
+      "EndOffset": 126,
+      "Score": 0.8130616545677185,
+      "Text": performance
+    },
+    {
+      "BeginOffset": 130,
+      "EndOffset": 145,
+      "Score": 0.9997140169143677,
+      "Text": a specific task
+    },
+    {
+      "BeginOffset": 152,
+      "EndOffset": 156,
+      "Score": 0.9992188811302185,
+      "Text": data
+    }
+  ]
+}
