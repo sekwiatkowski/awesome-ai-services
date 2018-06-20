@@ -234,7 +234,7 @@ Customization in private preview
 - What is the text content?
 
 ### Google Cloud Vision
-[Overview](https://cloud.google.com/vision/docs/ocr) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
+[Overview](https://cloud.google.com/vision/docs/ocr) | [Sample output] (https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/google-cloud-vision-sample-output.json) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
 
 - Where in the image file is text located?
 - What is the text content?
