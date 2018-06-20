@@ -16,8 +16,8 @@ A overview of awesome AI services maintained by Sebastian Kwiatkowski
 - [Sentiment Analysis](#sentiment-analysis)
 
 ## Speech
-- [Speech-to-text / Speech Recognition](#speech-to-text)
-- [Text-to-speech / Speech Synthesis](#text-to-speech)
+- [Speech to Text / Speech Recognition](#speech-to-text)
+- [Text to Speech / Speech Synthesis](#text-to-speech)
 
 ### Vision
 - [Face Recognition](#face-recognition)
@@ -113,7 +113,7 @@ Supported entity types:
 
 # Speech
 
-<h2 id="speech-to-text">Speech-to-text / Speech Recognition</h2>
+<h2 id="speech-to-text">Speech to Text / Speech Recognition</h2>
 
 [Sample input](http://awesome-ai-services.s3.amazonaws.com/speech-recognition/greys-anatomy-introduction-60-seconds.mp3)
 
@@ -142,7 +142,7 @@ The REST API is limited to utterances of up to [14 seconds](https://docs.microso
 
 Support for 8 languages
 
-<h2 id="text-to-speech">Text-to-speech / Speech Synthesis</h2>
+<h2 id="text-to-speech">Text to Speech / Speech Synthesis</h2>
 
 [Sample input](https://github.com/sekwiatkowski/awesome-ai-services/tree/master/speech-synthesis/sample-input)
 
