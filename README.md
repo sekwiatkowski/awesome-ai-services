@@ -67,6 +67,7 @@ Supported entity types:
 - What are their Wikipedia and Bing IDs?
 
 ## Keyphrase Extraction
+[Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/sample-input.txt)
 
 ### Amazon Comprehend
 [Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend-sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
