@@ -9,21 +9,21 @@
 ## Table of Contents
 
 ### Natural Language
-- [Entity recognition](#entity-recognition)
-- [Keyphrase extraction](#keyphrase-extraction)
-- [Sentiment analysis](#sentiment-analysis)
+- [Entity Recognition](#entity-recognition)
+- [Keyphrase Extraction](#keyphrase-extraction)
+- [Sentiment Analysis](#sentiment-analysis)
 
 ## Speech
-- [Speech-to-text](#speech-to-text)
-- [Text-to-speech](#text-to-speech)
+- [Speech-to-text / Speech Recognition](#speech-to-text)
+- [Text-to-speech / Speech Synthesis](#text-to-speech)
 
 ### Vision
-- [Face recognition](#face-recognition)
-- [Text recognition](#text-recognition)
+- [Face Recognition](#face-recognition)
+- [Text Recognition](#text-recognition)
 
-# Natural language
+# Natural Language
 
-## Entity recognition
+## Entity Recognition
 
 ### Amazon Comprehend
 [Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html)
@@ -63,7 +63,7 @@ Supported entity types:
 - What are the URLs to the corresponding Wikipedia entries?
 - What are their Wikipedia and Bing IDs?
 
-## Keyphrase extraction
+## Keyphrase Extraction
 
 ### Amazon Comprehend
 [Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction)
@@ -84,7 +84,7 @@ Supported entity types:
 
 - Which keywords can be extracted for the given document?
 
-## Sentiment analysis
+## Sentiment Analysis
 
 ### Amazon Comprehend
 [Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis)
@@ -108,7 +108,7 @@ Supported entity types:
 
 # Speech
 
-## Speech-to-text
+<h2 id="speech-to-text">Speech-to-text / Speech Recognition</h2>
 
 ### Amazon Transcribe
 
@@ -116,7 +116,7 @@ Supported entity types:
 
 ### Google Text-to-Speech
 
-## Text-to-speech
+<h2 id="text-to-speech">Text-to-speech / Speech Synthesis</h2>
 
 ### Amazon Polly
 
