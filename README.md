@@ -228,7 +228,7 @@ Customization in private preview
 [Sample input](http://awesome-ai-services.s3.amazonaws.com/text-recognition/welcome-to-utah.jpg)
 
 ### Amazon Rekognition
-[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Sample output](http://awesome-ai-services.s3.amazonaws.com/text-recognition/amazon-rekognition-text-recognition-sample-output.json) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
+[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/amazon-rekognition-sample-output.json) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
 
 - Where in the image file is text located?
 - What is the text content?
