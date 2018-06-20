@@ -1,0 +1,92 @@
+{
+  "entities": {
+    "documents": [
+      {
+        "id": "2fc61e9c-fc19-4054-a53b-3f0a72e0d35e",
+        "entities": [
+          {
+            "name": "Homebrew Computer Club",
+            "matches": [
+              {
+                "text": "Homebrew Computer Club",
+                "offset": 245,
+                "length": 22
+              }
+            ],
+            "wikipediaLanguage": "en",
+            "wikipediaId": "Homebrew Computer Club",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Homebrew_Computer_Club",
+            "bingId": "efe00031-03da-1c81-4bdc-7a7b950d96ff"
+          },
+          {
+            "name": "Apple Inc.",
+            "matches": [
+              {
+                "text": "Apple Computer",
+                "offset": 0,
+                "length": 14
+              },
+              {
+                "text": "the Apple",
+                "offset": 132,
+                "length": 9
+              }
+            ],
+            "wikipediaLanguage": "en",
+            "wikipediaId": "Apple Inc.",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Apple_Inc.",
+            "bingId": "6fa57c29-e813-4a1d-7fba-3541ca4c1dc3"
+          },
+          {
+            "name": "Steve Wozniak",
+            "matches": [
+              {
+                "text": "Steve Wozniak",
+                "offset": 68,
+                "length": 13
+              },
+              {
+                "text": "Wozniak",
+                "offset": 199,
+                "length": 7
+              }
+            ],
+            "wikipediaLanguage": "en",
+            "wikipediaId": "Steve Wozniak",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Wozniak",
+            "bingId": "4f4b23ee-27cc-d41b-f1ef-ad86fd55681a"
+          },
+          {
+            "name": "Ronald Wayne",
+            "matches": [
+              {
+                "text": "Ronald Wayne",
+                "offset": 86,
+                "length": 12
+              }
+            ],
+            "wikipediaLanguage": "en",
+            "wikipediaId": "Ronald Wayne",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronald_Wayne",
+            "bingId": "d1c9357a-041b-1b3f-c143-7815ffe3bf48"
+          },
+          {
+            "name": "Steve Jobs",
+            "matches": [
+              {
+                "text": "Steve Jobs",
+                "offset": 56,
+                "length": 10
+              }
+            ],
+            "wikipediaLanguage": "en",
+            "wikipediaId": "Steve Jobs",
+            "wikipediaUrl": "https://en.wikipedia.org/wiki/Steve_Jobs",
+            "bingId": "a92f6c87-d5f3-7bd6-c85c-f7e39061e30f"
+          }
+        ]
+      }
+    ],
+    "errors": []
+  }
+}
