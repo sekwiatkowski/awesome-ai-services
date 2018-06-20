@@ -1,5 +1,7 @@
 # awesome-ai-services
 
+A curated list of awesome AI services maintained by Sebastian Kwiatkowski.
+
 ## Sharing
 - [Share on Twitter](http://twitter.com/home?status=http://github.com/sekwiatkowski/awesome-ai-services)
 - [Share on Facebook](http://www.facebook.com/sharer/sharer.php?u=http://github.com/sekwiatkowski/awesome-ai-services)
