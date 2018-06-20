@@ -1,0 +1,1 @@
+Machine learning uses statistical techniques to give computers the ability to "learn" (i.e., progressively improve performance on a specific task) with data, without being explicitly programmed.
