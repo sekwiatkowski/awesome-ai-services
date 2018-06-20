@@ -77,7 +77,7 @@ Supported entity types:
 *Not supported*
 
 ### IBM Watson Natural Understanding
-[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
 - Which keywords can be extracted for the given document?
 
