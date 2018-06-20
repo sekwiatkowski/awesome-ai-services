@@ -122,7 +122,7 @@ Supported entity types:
 
 Support for US English and Spanish
 
-### Google Cloud Speech-to-Text
+### Google Cloud Speech
 
 [Overview](https://cloud.google.com/speech-to-text/) | [Demo](https://cloud.google.com/speech-to-text/) | [Pricing](https://cloud.google.com/speech-to-text/pricing)
 
