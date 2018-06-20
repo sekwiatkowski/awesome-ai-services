@@ -48,7 +48,7 @@ Supported entity types: commercial items, dates, events, locations, organization
 Supported entity types: consumer good, event, location, organization, person, work of art, other types
 
 ### IBM Watson Natural Understanding
-[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
 
 - What are the entities mentioned in the document?
 - What are their types and subtypes?
@@ -77,7 +77,7 @@ Supported entity types:
 *Not supported*
 
 ### IBM Watson Natural Understanding
-[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#entities) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
 
 - Which keywords can be extracted for the given document?
 
@@ -99,7 +99,7 @@ Supported entity types:
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### IBM Watson Natural Understanding
-[Overview](https://www.ibm.com/watson/developercloud/natural-language-understanding/api/v1/#sentiment) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
