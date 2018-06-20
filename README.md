@@ -32,16 +32,7 @@
 - What are their types?
 - How often is each of these entities mentioned?
 
-Supported entity types:
-- commercial items
-- dates
-- events
-- locations
-- organizations
-- persons
-- quantities
-- other types
-- titles
+Supported entity types: commercial items, dates, events, locations, organizations, persons, quantities, other types, titles
 
 ### Google Cloud Natural Language
 [Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity)
@@ -52,14 +43,7 @@ Supported entity types:
 - Where in the text are these entities mentioned?
 - What are the URLs to the corresponding Wikipedia entries?
 
-Supported entity types:
-- consumer good
-- event
-- location
-- organization
-- person
-- work of art
-- other type
+Supported entity types: consumer good, event, location, organization, person, work of art, other types
 
 ### IBM Watson Natural Understanding
 [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types.html)
@@ -125,6 +109,12 @@ Supported entity types:
 # Speech
 
 ## Speech-to-text
+
+### Amazon Transcribe
+
+[Overview](https://aws.amazon.com/transcribe/)
+
+### Google Text-to-Speech
 
 ## Text-to-speech
 
