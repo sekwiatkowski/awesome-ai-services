@@ -201,11 +201,13 @@ Customization in private preview
 - Are the faces in two images of the same person?
 
 ### Google Cloud Vision
-[Overview](https://cloud.google.com/vision/docs/detecting-faces) | [Sample output]() | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
+[Overview](https://cloud.google.com/vision/docs/detecting-faces) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/amazon-rekognition-sample-output.json) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
 
 - Where are the faces and face parts located in the image?
-- Does the face express the emotional states of joy, sorrow, anger or surprise?
+- What is the pose of the faces?
+- Does the faces express emotions states of joy, sorrow, anger or surprise?
 - Is the person wearing headwear?
+- Is the photo underexposed or blurred?
 
 ### IBM Watson Visual Recognition
 [Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Sample output]() | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-visual-recognition/pricing)
