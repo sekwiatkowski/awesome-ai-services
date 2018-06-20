@@ -87,6 +87,7 @@ Supported entity types:
 - Which keywords can be extracted for the given document?
 
 ## Sentiment Analysis
+[Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/sample-input.txt)
 
 ### Amazon Comprehend
 [Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
