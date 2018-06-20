@@ -26,6 +26,7 @@ A overview of awesome AI services maintained by Sebastian Kwiatkowski
 # Natural Language
 
 ## Entity Recognition
+[Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/sample-input.txt)
 
 ### Amazon Comprehend
 [Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend-sample-output.json) | [UI](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
