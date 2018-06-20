@@ -217,20 +217,22 @@ Customization in private preview
 - What are their genders?
 
 ### Microsoft Cognitive Service Face
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Sample output]() | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-computer-vision-sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
 
-- What are the faces and face parts localed in the image?
-- Are parts of the face occluded?
-- What is the pose of the head?
-- Are the faces in two images of the same person?
-- What is the age of the person?
-- What is the gender?
+- What are the faces and face parts located in the image?
+- Are parts of the faces occluded?
+- What is the pose of the heads?
+- How old are they?
+- What are their genders?
 - Does the face express the emotional states of anger, contempt, disgust, fear, happiness sadness, surprise or a neutral state?
-- Is the person smiling?
-- Is the hair visibile? What is the hair color? Or is the person bald?
-- Does the person have moustache, a beard or sideburns?
+- Arey they smiling?
+- Is the hair visible? What is the hair color? Or is the person bald?
+- Doe they have a moustache, a beard or sideburns?
+- Are they wearing make-up?
 - What kind of acessories is the person wearing, if any?
 - What kind of glasses is the person wearing, if any?
+- Is the photo blurred? What is the exposure level? What is the noise level?
+- Are the faces in two images of the same person?
 
 ## Text Recognition
 [Sample input](http://awesome-ai-services.s3.amazonaws.com/text-recognition/welcome-to-utah.jpg)
