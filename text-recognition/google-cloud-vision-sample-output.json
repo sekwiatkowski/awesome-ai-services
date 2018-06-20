@@ -1,1 +1,143 @@
-
+{
+  "textAnnotations": [
+    {
+      "locale": "en",
+      "description": "Welcome to\nUTAH\nLIFE ELEVATED\n",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 113,
+            "y": 338
+          },
+          {
+            "x": 526,
+            "y": 338
+          },
+          {
+            "x": 526,
+            "y": 636
+          },
+          {
+            "x": 113,
+            "y": 636
+          }
+        ]
+      }
+    },
+    {
+      "description": "Welcome",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 113,
+            "y": 338
+          },
+          {
+            "x": 288,
+            "y": 338
+          },
+          {
+            "x": 288,
+            "y": 400
+          },
+          {
+            "x": 113,
+            "y": 400
+          }
+        ]
+      }
+    },
+    {
+      "description": "to",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 305,
+            "y": 338
+          },
+          {
+            "x": 339,
+            "y": 338
+          },
+          {
+            "x": 339,
+            "y": 400
+          },
+          {
+            "x": 305,
+            "y": 400
+          }
+        ]
+      }
+    },
+    {
+      "description": "UTAH",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 205,
+            "y": 386
+          },
+          {
+            "x": 526,
+            "y": 403
+          },
+          {
+            "x": 520,
+            "y": 502
+          },
+          {
+            "x": 200,
+            "y": 485
+          }
+        ]
+      }
+    },
+    {
+      "description": "LIFE",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 225,
+            "y": 600
+          },
+          {
+            "x": 304,
+            "y": 603
+          },
+          {
+            "x": 303,
+            "y": 627
+          },
+          {
+            "x": 224,
+            "y": 624
+          }
+        ]
+      }
+    },
+    {
+      "description": "ELEVATED",
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 324,
+            "y": 604
+          },
+          {
+            "x": 516,
+            "y": 612
+          },
+          {
+            "x": 515,
+            "y": 636
+          },
+          {
+            "x": 323,
+            "y": 628
+          }
+        ]
+      }
+    }
+  ]
+}
