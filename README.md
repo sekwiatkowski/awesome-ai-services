@@ -187,7 +187,7 @@ Customization in private preview
 ## Face recognition
 
 ### Amazon Rekognition
-[Overview](https://aws.amazon.com/rekognition/image-features/)
+[Overview](https://aws.amazon.com/rekognition/image-features/) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/face-detection)
 
 - Where are the faces located in the image?
 - Given a face image, what other image shows the most similar face?
@@ -196,21 +196,21 @@ Customization in private preview
 - Is the person smiling?
 
 ### Google Cloud Vision
-[Overview](https://cloud.google.com/vision/docs/detecting-faces)
+[Overview](https://cloud.google.com/vision/docs/detecting-faces) | [Demo](https://cloud.google.com/vision/)
 
 - Where are the faces and face parts located in the image?
 - Does the face express the emotional states of joy, sorrow, anger or surprise?
 - Is the person wearing headwear?
 
 ### IBM Watson Visual Recognition
-[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm)
+[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/)
 
 - Where are the faces and face parts located in the image?
 - What are the age ranges of the persons?
 - What are their genders?
 
 ### Microsoft Cognitive Service Face
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
 
 - What are the faces and face parts localed in the image?
 - Are parts of the face occluded?
