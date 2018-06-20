@@ -1,0 +1,3 @@
+On Monday, United States technology giant Microsoft announced their plans to acquire GitHub, a San Francisco, California-based web-based hosting service for software version control using Git, for 7.5 billion US Dollars.
+
+In the official announcement at the Microsoft News web site, the company said they are to reach agreement with GitHub by the end of the year. They said the agreement would allow them to deliver Microsoft development services to GitHub users, and "accelerate enterprise use of GitHub". GitHub had been financially struggling recently and is expected to get a new CEO.
