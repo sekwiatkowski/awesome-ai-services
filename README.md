@@ -81,8 +81,8 @@ Supported entity types:
 
 - Which keywords can be extracted for the given document?
 
-### Microsoft Cognitive Services Text Analytics | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction)
+### Microsoft Cognitive Services Text Analytics
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
 
 - Which keywords can be extracted for the given document?
 
