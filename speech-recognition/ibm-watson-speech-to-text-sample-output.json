@@ -1,0 +1,68 @@
+{
+  "results": [
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "section zero of grey's anatomy part one this is a liberal box recording all about recordings are in the public domain for more information or to volunteer please visit librivox dot org recorded by Laurie and Walden ",
+          "confidence": 0.842
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "anatomy of the human body part one by him the gray ",
+          "confidence": 0.852
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "preface to the twentieth addition ",
+          "confidence": 0.614
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "since the publication of the first English edition of this work in eighteen fifty eight and the first American edition in eighteen fifty nine great advances in the subject of anatomy have been made especially in microscopic anatomy and the anatomy of the embryo ",
+          "confidence": 0.947
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "knowledge was embodied from time to time in the successive editions until finally considerable portions of the text sometimes sections were devoted to the subjects ",
+          "confidence": 0.868
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "however the main text has always remained primarily a descriptive anatomy of the human body ",
+          "confidence": 0.977
+        }
+      ]
+    },
+    {
+      "final": true,
+      "alternatives": [
+        {
+          "transcript": "in the present edition the special sections on embryology and histology have been distributed among the ",
+          "confidence": 0.909
+        }
+      ]
+    }
+  ],
+  "result_index": 0
+}
