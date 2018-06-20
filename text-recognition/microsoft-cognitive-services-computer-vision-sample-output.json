@@ -1,0 +1,120 @@
+{
+  "status": "Succeeded",
+  "succeeded": true,
+  "failed": false,
+  "finished": true,
+  "recognitionResult": {
+    "lines": [
+      {
+        "boundingBox": [
+          103,
+          340,
+          338,
+          334,
+          340,
+          395,
+          105,
+          401
+        ],
+        "text": "Welcome to",
+        "words": [
+          {
+            "boundingBox": [
+              109,
+              341,
+              294,
+              342,
+              298,
+              393,
+              110,
+              402
+            ],
+            "text": "Welcome"
+          },
+          {
+            "boundingBox": [
+              290,
+              342,
+              343,
+              341,
+              346,
+              390,
+              293,
+              393
+            ],
+            "text": "to"
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          168,
+          374,
+          567,
+          413,
+          557,
+          510,
+          159,
+          470
+        ],
+        "text": "\"UTAH",
+        "words": [
+          {
+            "boundingBox": [
+              144,
+              382,
+              519,
+              412,
+              518,
+              503,
+              147,
+              473
+            ],
+            "text": "\"UTAH"
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          221,
+          601,
+          527,
+          614,
+          526,
+          634,
+          220,
+          621
+        ],
+        "text": "LIFE ELEVATED\"",
+        "words": [
+          {
+            "boundingBox": [
+              222,
+              602,
+              299,
+              606,
+              299,
+              625,
+              223,
+              621
+            ],
+            "text": "LIFE"
+          },
+          {
+            "boundingBox": [
+              326,
+              607,
+              526,
+              615,
+              525,
+              634,
+              326,
+              627
+            ],
+            "text": "ELEVATED\""
+          }
+        ]
+      }
+    ]
+  }
+}
