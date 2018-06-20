@@ -210,9 +210,9 @@ Customization in private preview
 - Is the photo underexposed or blurred?
 
 ### IBM Watson Visual Recognition
-[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Sample output]() | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-visual-recognition/pricing)
+[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/ibm-watson-visual-recognition-sample.output.json) | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-visual-recognition/pricing)
 
-- Where are the faces and face parts located in the image?
+- Where are the faces located in the image?
 - What are the age ranges of the persons shown?
 - What are their genders?
 
