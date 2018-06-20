@@ -132,6 +132,8 @@ Supported entity types:
 
 [Overview](https://aws.amazon.com/polly/)
 
+34 voices in 25 languages
+
 SSML extensions:
 - Breathing
 - Dynamic Range Compression
@@ -143,9 +145,13 @@ SSML extensions:
 
 [Overview](https://cloud.google.com/text-to-speech/)
 
+28 voices in 14 languages
+
 ### IBM Watson Text to Speech
 
 [Overview](https://www.ibm.com/watson/services/text-to-speech/)
+
+13 voices in 7 languages
 
 SSML extensions:
 - Good news
@@ -161,6 +167,10 @@ Customization:
 ### Microsoft Cognitive Services Text to Speech (Preview)
 
 [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
+
+80 voices in 32 languages
+
+Customization in private preview
 
 # Vision
 
