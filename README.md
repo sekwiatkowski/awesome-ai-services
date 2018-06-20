@@ -115,11 +115,10 @@ Supported entity types:
 
 <h2 id="speech-to-text">Speech-to-text / Speech Recognition</h2>
 
-### Amazon Transcribe
-
 [Sample input](http://awesome-ai-services.s3.amazonaws.com/speech-recognition/greys-anatomy-introduction-60-seconds.mp3)
 
-[Overview](https://aws.amazon.com/transcribe/) | [UI](https://console.aws.amazon.com/transcribe/home) | [Pricing](https://aws.amazon.com/transcribe/pricing/)
+### Amazon Transcribe
+[Overview](https://aws.amazon.com/transcribe/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe-sample-output.json) | [UI](https://console.aws.amazon.com/transcribe/home) | [Pricing](https://aws.amazon.com/transcribe/pricing/)
 
 Support for US English and Spanish
 
