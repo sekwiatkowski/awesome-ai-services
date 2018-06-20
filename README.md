@@ -203,14 +203,14 @@ Customization in private preview
 - Is the person wearing headwear?
 
 ### IBM Watson Visual Recognition
-[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/)
+[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/)
 
 - Where are the faces and face parts located in the image?
 - What are the age ranges of the persons?
 - What are their genders?
 
 ### Microsoft Cognitive Service Face
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
 
 - What are the faces and face parts localed in the image?
 - Are parts of the face occluded?
@@ -228,13 +228,13 @@ Customization in private preview
 ## Text recognition
 
 ### Amazon Rekognition
-[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html)
+[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection)
 
 - Where in the image file is text located?
 - What is the text content?
 
 ### Google Cloud Vision
-[Overview](https://cloud.google.com/vision/docs/ocr)
+[Overview](https://cloud.google.com/vision/docs/ocr) | [Demo](https://cloud.google.com/vision/)
 
 - Where in the image file is text located?
 - What is the text content?
@@ -244,11 +244,10 @@ Customization in private preview
 *This feature is currently in private beta.*
 
 ### Microsoft Cognitive Services Computer Vision
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text)
 
 - Where in the image file is text located?
 - What is the text content?
-
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
