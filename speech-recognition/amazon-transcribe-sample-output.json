@@ -1,0 +1,38 @@
+{
+    "TranscriptionJob": {
+        "TranscriptionJobName": "Greys-Anatomy-First-59-Seconds",
+        "TranscriptionJobStatus": "COMPLETED",
+        "LanguageCode": "en-US",
+        "MediaSampleRateHertz": 44100,
+        "MediaFormat": "mp3",
+        "Media": {
+            "MediaFileUri": "http://awesome-ai-services.s3.amazonaws.com/speech-recognition/greys-anatomy-first-59-seconds.mp3"
+        },
+        "Transcript": {
+            "TranscriptFileUri": "https://s3.amazonaws.com/aws-transcribe-us-east-1-prod/318377589674/Greys-Anatomy-First-59-Seconds/asrOutput.json?X-Amz-Security-Token=FQoDYXdzEB0aDPYW0QwC8efpnQXGRCK3Awrrst81iWyTif3eL8OtcKgum01%2BBzSnHLkwO%2FKCpe7hsZDt2qEZE%2FS%2Btf7fUUPxmy8VvoDruAL96Z09QfhOT3SO7zua95cXPYGDg0n7QqhgvJLnXDSHj2fVMSSqvtpOXvrRpGPBQ2uHPy89D3V1HDyy3PXlwyEizNPxe2J8%2BRQJRl%2ByfG20GAkVHjxigT5ZcIwL3GfXLd%2BUr1HntfMiXoS7DvmkgMhwjwX1WLSmcX1GxVf3QQ8%2Fcm%2FqxcELXxRGXdTZ5hLNjuBkZfSejULHAfbzwRKStt8cDqglbWk71QQkzXdWZBeKufQNkdYXLrjH5fzuRJhaKRiqlhAug8PMxyYoESmzFMs1bgp9E5nGHDI3JQXMEsaYDKWRbsh5dUqODZfC4UwAnLZP8fjK%2BlJl9Bvr7WmvuVZp0RC8uHoFDUkm6Vt%2BDS08wPL4a6KWAmTBi88p3YL3IPwumByVnWWFUzrZXVTmb6Cg%2FiJP6nzHh4sIUDHZK%2BAqWeHJNhgPYTLfKAMLRd3dBnlyy98TEsFvIZq3TylHOt9ANQgxHuloE0YHPWkSxnF%2Fzr1gW0WS9aK2PA91x24K8hMout6q2QU%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20180620T204611Z&X-Amz-SignedHeaders=host&X-Amz-Expires=900&X-Amz-Credential=ASIAJDL4ORRZOHSNJ7FA%2F20180620%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=d2e20763730f263072053c7bee744708a920ca0e68eb89cc95bf68d69577ccd7"
+        },
+        "CreationTime": "2018-06-20T20:43:40.274Z",
+        "CompletionTime": "2018-06-20T20:45:41.416Z",
+        "Settings": {}
+    }
+}
+
+/*
+Section zero of grey's anatomy part one this is a liberal box recording.
+
+All liberal box recordings are in the public domain.
+
+For more information or to volunteer, please visit libre box dot or ge.
+
+Recorded by laurie and walden. Anatomy of the human body.
+
+Parts one by henry grey
+
+Preface to the twentieth edition since the publication of the first english edition of this work in eighteen fifty eight and the first american edition, and eighteen fifty nine, great advances in the subject of anatomy have been made, especially in microscopic anatomy and the anatomy of the embryo.
+
+This knowledge was embodied from town to town in the successive additions, until, finally, considerable portions of the text, sometimes sections were devoted to these subjects
+
+However, the main text has always remained primarily a descriptive anatomy of the human body.
+
+In the present edition, the special sections on embryology and histology have been distributed among the
+*/
