@@ -224,7 +224,8 @@ Customization in private preview
 - What kind of acessories is the person wearing, if any?
 - What kind of glasses is the person wearing, if any?
 
-## Text Recognition [Sample input](http://awesome-ai-services.s3.amazonaws.com/text-recognition/welcome-to-utah.jpg)
+## Text Recognition
+[Sample input](http://awesome-ai-services.s3.amazonaws.com/text-recognition/welcome-to-utah.jpg)
 
 ### Amazon Rekognition
 [Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
