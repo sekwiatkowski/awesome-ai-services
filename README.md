@@ -116,17 +116,25 @@ Supported entity types:
 
 [Overview](https://aws.amazon.com/transcribe/)
 
+Support for US English and Spanish
+
 ### Google Speech-to-Text
 
 [Overview](https://cloud.google.com/speech-to-text/)
+
+Support for 119 languages/locales
 
 ### IBM Speech to Text
 
 [Overview](https://www.ibm.com/watson/services/speech-to-text)
 
-### Microsoft Cogntiive Services Speech to Text (Preview)
+Support for 9 languages
+
+### Microsoft Cognitive Services Speech to Text (Preview)
 
 [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/)
+
+Support for 8 languages
 
 <h2 id="text-to-speech">Text-to-speech / Speech Synthesis</h2>
 
