@@ -189,6 +189,7 @@ Customization in private preview
 ### Amazon Rekognition
 [Overview](https://aws.amazon.com/rekognition/image-features/)
 
+- Where are the faces located in the image?
 - Given a face image, what other image shows the most similar face?
 - Are the faces in two images of the same person?
 - Are the eyes opened or closed?
@@ -197,14 +198,14 @@ Customization in private preview
 ### Google Cloud Vision
 [Overview](https://cloud.google.com/vision/docs/detecting-faces)
 
-- What are the faces and face parts localed in the image?
+- Where are the faces and face parts located in the image?
 - Does the face express the emotional states of joy, sorrow, anger or surprise?
 - Is the person wearing headwear?
 
 ### IBM Watson Visual Recognition
 [Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm)
 
-- What are the faces and face parts localed in the image?
+- Where are the faces and face parts located in the image?
 - What are the age ranges of the persons?
 - What are their genders?
 
