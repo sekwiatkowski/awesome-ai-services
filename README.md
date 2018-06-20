@@ -217,7 +217,7 @@ Customization in private preview
 - What are their genders?
 
 ### Microsoft Cognitive Service Face
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-computer-vision-sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-face-sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
 
 - What are the faces and face parts located in the image?
 - Are parts of the faces occluded?
