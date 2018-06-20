@@ -187,13 +187,18 @@ Customization in private preview
 [Sample input](http://awesome-ai-services.s3.amazonaws.com/face-recognition/face-recognition-sample-input.jpg)
 
 ### Amazon Rekognition
-[Overview](https://aws.amazon.com/rekognition/image-features/) | [Sample output]() | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/face-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
+[Overview](https://aws.amazon.com/rekognition/image-features/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/amazon-rekognition-sample-output.json) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/face-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
 
-- Where are the faces located in the image?
+- Where are the faces and face parts located in the image?
+- What are the age ranges of the persons shown?
+- Are they smiling?
+- Do they wear eyeglasses or sunglasses?
+- What are their genders?
+- Do they have a beard or mustache?
+- Are their eyes or mouth open?
+- Do they express emotions of happiness, sadness, anger, confusion, disgust, surprise or calmness?
 - Given a face image, what other image shows the most similar face?
 - Are the faces in two images of the same person?
-- Are the eyes opened or closed?
-- Is the person smiling?
 
 ### Google Cloud Vision
 [Overview](https://cloud.google.com/vision/docs/detecting-faces) | [Sample output]() | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
@@ -206,7 +211,7 @@ Customization in private preview
 [Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Sample output]() | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-visual-recognition/pricing)
 
 - Where are the faces and face parts located in the image?
-- What are the age ranges of the persons?
+- What are the age ranges of the persons shown?
 - What are their genders?
 
 ### Microsoft Cognitive Service Face
