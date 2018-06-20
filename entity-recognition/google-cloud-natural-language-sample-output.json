@@ -1,0 +1,161 @@
+{
+  "entites": [
+    {
+      "name": "Apple Computer Company",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/0k8z",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Apple_Inc."
+      },
+      "salience": 0.41189352,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apple Computer Company"
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Steve Jobs",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/06y3r",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Jobs"
+      },
+      "salience": 0.121579945,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Jobs",
+            "begin_offset": 56
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Steve Wozniak",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/06y1l",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Steve_Wozniak"    
+      },
+      "salience": 0.10107307,
+      "mentions": [
+        {
+          "text": {
+            "content": "Steve Wozniak",
+            "begin_offset": 68
+          },
+          "type": "PROPER"
+        },
+        {
+          "text": {
+            "content": "Wozniak",
+            "begin_offset": 199
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "company",
+      "type": "ORGANIZATION",
+      "salience": 0.09656628,
+      "mentions": [
+        {
+          "text": {
+            "content": "company",
+            "begin_offset": 104
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Ronald Wayne",
+      "type": "PERSON",
+      "metadata": {
+        "mid": "/m/02z496",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Ronald_Wayne"
+      },
+      "salience": 0.08305545,
+      "mentions": [
+        {
+          "text": {
+            "content": "Ronald Wayne",
+            "begin_offset": 86
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "product",
+      "type": "CONSUMER_GOOD",
+      "salience": 0.07732926,
+      "mentions": [
+        {
+          "text": {
+            "content": "product",
+            "begin_offset": 120
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "public",
+      "type": "PERSON",
+      "salience": 0.047717355,
+      "mentions": [
+        {
+          "text": {
+            "content": "public",
+            "begin_offset": 231
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Apple I",
+      "type": "CONSUMER_GOOD",
+      "metadata": {
+        "mid": "/m/0n_v",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Apple_I"
+      },
+      "salience": 0.040881768,
+      "mentions": [
+        {
+          "text": {
+            "content": "Apple I",
+            "begin_offset": 136
+          },
+          "type": "PROPER"
+        }
+      ]
+    },
+    {
+      "name": "Homebrew Computer Club",
+      "type": "ORGANIZATION",
+      "metadata": {
+        "mid": "/m/011wwj",
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Homebrew_Computer_Club"
+      },
+      "salience": 0.019903349,
+      "mentions": [
+        {
+          "text": {
+            "content": "Homebrew Computer Club",
+            "begin_offset": 245
+          },
+          "type": "PROPER"
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
