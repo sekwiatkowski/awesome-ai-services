@@ -1,0 +1,26 @@
+[
+ {
+  "classifier_id": "faces",
+  "display": "Face Model",
+  "description": "Locate faces within an image and assess gender and age.",
+  "faces": [
+   {
+    "age": {
+     "min": 20,
+     "max": 22,
+     "score": 0.9998076
+    },
+    "face_location": {
+     "height": 384,
+     "width": 313,
+     "left": 520,
+     "top": 209
+    },
+    "gender": {
+     "gender": "FEMALE",
+     "score": 0.9999639
+    }
+   }
+  ]
+ }
+]
