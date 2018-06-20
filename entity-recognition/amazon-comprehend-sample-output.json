@@ -4,71 +4,71 @@
       "BeginOffset": 0,
       "EndOffset": 5,
       "Score": 0.5188682079315186,
-      "Text": Apple,
-      "Type": ORGANIZATION
+      "Text": "Apple",
+      "Type": "ORGANIZATION"
     },
     {
       "BeginOffset": 38,
       "EndOffset": 51,
       "Score": 0.9998352527618408,
-      "Text": April 1, 1976,
-      "Type": DATE
+      "Text": "April 1, 1976",
+      "Type": "DATE"
     },
     {
       "BeginOffset": 56,
       "EndOffset": 66,
       "Score": 0.9987905621528625,
-      "Text": Steve Jobs,
-      "Type": PERSON
+      "Text": "Steve Jobs",
+      "Type": "PERSON"
     },
     {
       "BeginOffset": 68,
       "EndOffset": 81,
       "Score": 0.9999580383300781,
-      "Text": Steve Wozniak,
-      "Type": PERSON
+      "Text": "Steve Wozniak",
+      "Type": "PERSON"
     },
     {
       "BeginOffset": 86,
       "EndOffset": 98,
       "Score": 0.9985171556472778,
-      "Text": Ronald Wayne,
-      "Type": PERSON
+      "Text": "Ronald Wayne",
+      "Type": "PERSON"
     },
     {
       "BeginOffset": 114,
       "EndOffset": 127,
       "Score": 0.7933344841003418,
-      "Text": first product,
-      "Type": QUANTITY
+      "Text": "first product",
+      "Type": "QUANTITY"
     },
     {
       "BeginOffset": 136,
       "EndOffset": 141,
       "Score": 0.8734798431396484,
-      "Text": Apple,
-      "Type": ORGANIZATION
+      "Text": "Apple",
+      "Type": "ORGANIZATION"
     },
     {
       "BeginOffset": 199,
       "EndOffset": 206,
       "Score": 0.5288268327713013,
-      "Text": Wozniak,
-      "Type": ORGANIZATION
+      "Text": "Wozniak",
+      "Type": "ORGANIZATION"
     },
     {
       "BeginOffset": 212,
       "EndOffset": 217,
       "Score": 0.7611796259880066,
-      "Text": first,
-      "Type": QUANTITY
+      "Text": "first",
+      "Type": "QUANTITY"
     },
     {
       "BeginOffset": 245,
       "EndOffset": 267,
       "Score": 0.9704060554504395,
-      "Text": Homebrew Computer Club,
-      "Type": ORGANIZATION
+      "Text": "Homebrew Computer Club",
+      "Type": "ORGANIZATION"
     }
   ]
 }
