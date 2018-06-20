@@ -28,7 +28,7 @@ A curated list of awesome AI services maintained by Sebastian Kwiatkowski.
 ## Entity Recognition
 
 ### Amazon Comprehend
-[Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [UI](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
+[Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [UI](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -48,7 +48,7 @@ Supported entity types: commercial items, dates, events, locations, organization
 Supported entity types: consumer good, event, location, organization, person, work of art, other types
 
 ### IBM Watson Natural Understanding
-[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
 - What are the entities mentioned in the document?
 - What are their types and subtypes?
@@ -58,7 +58,7 @@ Supported entity types:
 - [Subtypes](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types-v1.html#entity-types-and-subtypes-version-1-#entity-subtypes)
 
 ## Microsoft Cognitive Services Text Analytics (Preview)
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
 - What are the entities mentioned in the document?
 - Where in the document are they mentioned?
@@ -68,7 +68,7 @@ Supported entity types:
 ## Keyphrase Extraction
 
 ### Amazon Comprehend
-[Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
+[Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
 - Which keywords can be extracted for the given document?
 - How often do each of these keywords occur?
@@ -77,34 +77,34 @@ Supported entity types:
 *Not supported*
 
 ### IBM Watson Natural Understanding
-[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
 - Which keywords can be extracted for the given document?
 
 ### Microsoft Cognitive Services Text Analytics
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
 - Which keywords can be extracted for the given document?
 
 ## Sentiment Analysis
 
 ### Amazon Comprehend
-[Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home)
+[Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### Google Cloud Natural Language
-[Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment) | [Demo](https://cloud.google.com/natural-language/)
+[Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### IBM Watson Natural Understanding
-[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/)
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
 ### Microsoft Cognitive Services Text Analytics
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/)
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
@@ -175,8 +175,7 @@ Customization:
 - Timbre
 
 ### Microsoft Cognitive Services Text to Speech (Preview)
-
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
 
 80 voices in 32 languages
 
