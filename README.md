@@ -183,7 +183,7 @@ Customization in private preview
 
 # Vision
 
-## Face recognition
+## Face Recognition
 
 ### Amazon Rekognition
 [Overview](https://aws.amazon.com/rekognition/image-features/) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/face-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
@@ -224,7 +224,7 @@ Customization in private preview
 - What kind of acessories is the person wearing, if any?
 - What kind of glasses is the person wearing, if any?
 
-## Text recognition
+## Text Recognition
 
 ### Amazon Rekognition
 [Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
