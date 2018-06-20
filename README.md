@@ -93,8 +93,8 @@ Supported entity types:
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
-### Google Cloud Natural Language [Demo](https://cloud.google.com/natural-language/)
-[Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment)
+### Google Cloud Natural Language
+[Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment) | [Demo](https://cloud.google.com/natural-language/)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
