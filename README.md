@@ -138,6 +138,8 @@ Support for 8 languages
 
 <h2 id="text-to-speech">Text-to-speech / Speech Synthesis</h2>
 
+[Sample input](https://github.com/sekwiatkowski/awesome-ai-services/tree/master/speech-synthesis/sample-input)
+
 ### Amazon Polly
 
 [Overview](https://aws.amazon.com/polly/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/amazon-polly) | [UI](https://console.aws.amazon.com/polly/home) | [Pricing](https://aws.amazon.com/polly/pricing/)
