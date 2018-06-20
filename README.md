@@ -116,7 +116,17 @@ Supported entity types:
 
 [Overview](https://aws.amazon.com/transcribe/)
 
-### Google Text-to-Speech
+### Google Speech-to-Text
+
+[Overview](https://cloud.google.com/speech-to-text/)
+
+### IBM Speech to Text
+
+[Overview](https://www.ibm.com/watson/services/speech-to-text)
+
+### Microsoft Cogntiive Services Speech to Text (Preview)
+
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/)
 
 <h2 id="text-to-speech">Text-to-speech / Speech Synthesis</h2>
 
