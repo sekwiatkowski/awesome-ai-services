@@ -1,0 +1,81 @@
+{
+ "entities": [
+  {
+   "type": "Company",
+   "text": "Apple Computer Company",
+   "relevance": 0.923162,
+   "count": 2
+  },
+  {
+   "type": "Person",
+   "text": "Steve Wozniak",
+   "relevance": 0.738797,
+   "disambiguation": {
+    "subtype": [
+     "CompanyFounder",
+     "ComputerDesigner",
+     "ComputerScientist",
+     "Hobbyist",
+     "Inventor",
+     "VideoGameDesigner",
+     "FilmActor",
+     "TVActor"
+    ],
+    "name": "Steve Wozniak",
+    "dbpedia_resource": "http://dbpedia.org/resource/Steve_Wozniak"
+   },
+   "count": 2
+  },
+  {
+   "type": "Person",
+   "text": "Steve Jobs",
+   "relevance": 0.375916,
+   "disambiguation": {
+    "subtype": [
+     "BoardMember",
+     "CompanyFounder",
+     "ComputerDesigner",
+     "FilmProducer"
+    ],
+    "name": "Steve Jobs",
+    "dbpedia_resource": "http://dbpedia.org/resource/Steve_Jobs"
+   },
+   "count": 1
+  },
+  {
+   "type": "Company",
+   "text": "Apple",
+   "relevance": 0.292013,
+   "disambiguation": {
+    "subtype": [
+     "Brand",
+     "OperatingSystemDeveloper",
+     "ProcessorManufacturer",
+     "ProgrammingLanguageDesigner",
+     "ProgrammingLanguageDeveloper",
+     "ProtocolProvider",
+     "SoftwareDeveloper",
+     "VentureFundedCompany",
+     "VideoGameDeveloper",
+     "VideoGamePublisher"
+    ],
+    "name": "Apple Inc.",
+    "dbpedia_resource": "http://dbpedia.org/resource/Apple_Inc."
+   },
+   "count": 1
+  },
+  {
+   "type": "Person",
+   "text": "Ronald Wayne",
+   "relevance": 0.288235,
+   "disambiguation": {
+    "subtype": [
+     "CompanyFounder"
+    ],
+    "name": "Ronald Wayne",
+    "dbpedia_resource": "http://dbpedia.org/resource/Ronald_Wayne"
+   },
+   "count": 1
+  }
+ ]
+}
