@@ -114,25 +114,25 @@ Supported entity types:
 
 ### Amazon Transcribe
 
-[Overview](https://aws.amazon.com/transcribe/) | [UI](https://console.aws.amazon.com/transcribe/home)
+[Overview](https://aws.amazon.com/transcribe/) | [UI](https://console.aws.amazon.com/transcribe/home) | [Pricing](https://aws.amazon.com/transcribe/pricing/)
 
 Support for US English and Spanish
 
 ### Google Speech-to-Text
 
-[Overview](https://cloud.google.com/speech-to-text/) | [Demo](https://cloud.google.com/speech-to-text/)
+[Overview](https://cloud.google.com/speech-to-text/) | [Demo](https://cloud.google.com/speech-to-text/) | [Pricing](https://cloud.google.com/speech-to-text/pricing)
 
 Support for 119 languages/locales
 
 ### IBM Speech to Text
 
-[Overview](https://www.ibm.com/watson/services/speech-to-text) | [Demo](https://speech-to-text-demo.ng.bluemix.net/)
+[Overview](https://www.ibm.com/watson/services/speech-to-text) | [Demo](https://speech-to-text-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-speech-to-text/pricing)
 
 Support for 9 languages
 
 ### Microsoft Cognitive Services Speech to Text (Preview)
 
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
 
 Support for 8 languages
 
@@ -140,7 +140,7 @@ Support for 8 languages
 
 ### Amazon Polly
 
-[Overview](https://aws.amazon.com/polly/) | [UI](https://console.aws.amazon.com/polly/home)
+[Overview](https://aws.amazon.com/polly/) | [UI](https://console.aws.amazon.com/polly/home) | [Pricing](https://aws.amazon.com/polly/pricing/)
 
 34 voices in 25 languages
 
@@ -153,13 +153,13 @@ SSML extensions:
 
 ### Google Text-to-Speech (Beta)
 
-[Overview](https://cloud.google.com/text-to-speech/) | [Demo](https://cloud.google.com/text-to-speech/)
+[Overview](https://cloud.google.com/text-to-speech/) | [Demo](https://cloud.google.com/text-to-speech/) | [Pricing](https://cloud.google.com/text-to-speech/pricing)
 
 28 voices in 14 languages
 
 ### IBM Watson Text to Speech
 
-[Overview](https://www.ibm.com/watson/services/text-to-speech/) | [Demo](https://text-to-speech-demo.ng.bluemix.net/)
+[Overview](https://www.ibm.com/watson/services/text-to-speech/) | [Demo](https://text-to-speech-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-text-to-speech/pricing)
 
 13 voices in 7 languages
 
@@ -175,7 +175,7 @@ Customization:
 - Timbre
 
 ### Microsoft Cognitive Services Text to Speech (Preview)
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
 
 80 voices in 32 languages
 
