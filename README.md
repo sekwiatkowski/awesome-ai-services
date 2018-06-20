@@ -234,7 +234,7 @@ Customization in private preview
 - What is the text content?
 
 ### Google Cloud Vision
-[Overview](https://cloud.google.com/vision/docs/ocr) | [Sample output] (https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/google-cloud-vision-sample-output.json) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
+[Overview](https://cloud.google.com/vision/docs/ocr) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/google-cloud-vision-sample-output.json) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
 
 - Where in the image file is text located?
 - What is the text content?
@@ -244,7 +244,7 @@ Customization in private preview
 *This feature is currently in private beta.*
 
 ### Microsoft Cognitive Services Computer Vision
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/microsoft-cognitive-services-computer-vision-sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/)
 
 - Where in the image file is text located?
 - What is the text content?
