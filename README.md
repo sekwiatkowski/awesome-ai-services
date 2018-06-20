@@ -117,6 +117,8 @@ Supported entity types:
 
 ### Amazon Transcribe
 
+[Sample input](http://awesome-ai-services.s3.amazonaws.com/speech-recognition/greys-anatomy-introduction-60-seconds.mp3)
+
 [Overview](https://aws.amazon.com/transcribe/) | [UI](https://console.aws.amazon.com/transcribe/home) | [Pricing](https://aws.amazon.com/transcribe/pricing/)
 
 Support for US English and Spanish
