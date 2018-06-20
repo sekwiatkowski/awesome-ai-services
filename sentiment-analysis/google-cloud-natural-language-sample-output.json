@@ -1,0 +1,20 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.9,
+    "score": 0.9
+  },
+  "language": "en",
+  "sentences": [
+    {
+      "text": {
+        "content": "The attention given to every character, and complex psychological portrayals, detailing loyalty, treachery, love, and hope, are tremendous.
+",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.9,
+        "score": 0.9
+      }
+    }
+  ]
+}
