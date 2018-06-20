@@ -122,9 +122,9 @@ Supported entity types:
 
 Support for US English and Spanish
 
-### Google Cloud Speech
+### Google Cloud Speech-to-Text
 
-[Overview](https://cloud.google.com/speech-to-text/) | [Demo](https://cloud.google.com/speech-to-text/) | [Pricing](https://cloud.google.com/speech-to-text/pricing)
+[Overview](https://cloud.google.com/speech-to-text/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text-sample-output.txt) | [Demo](https://cloud.google.com/speech-to-text/) | [Pricing](https://cloud.google.com/speech-to-text/pricing)
 
 Support for 119 languages/locales
 
