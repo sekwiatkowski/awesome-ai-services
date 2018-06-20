@@ -118,7 +118,7 @@ Supported entity types:
 
 Support for US English and Spanish
 
-### Google Speech-to-Text
+### Google Cloud Speech-to-Text
 
 [Overview](https://cloud.google.com/speech-to-text/) | [Demo](https://cloud.google.com/speech-to-text/) | [Pricing](https://cloud.google.com/speech-to-text/pricing)
 
@@ -151,7 +151,7 @@ SSML extensions:
 - Timbre
 - Whispering
 
-### Google Text-to-Speech (Beta)
+### Google Cloud Text-to-Speech (Beta)
 
 [Overview](https://cloud.google.com/text-to-speech/) | [Demo](https://cloud.google.com/text-to-speech/) | [Pricing](https://cloud.google.com/text-to-speech/pricing)
 
