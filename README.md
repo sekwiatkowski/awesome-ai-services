@@ -186,7 +186,7 @@ Customization in private preview
 ## Face recognition
 
 ### Amazon Rekognition
-[Overview](https://aws.amazon.com/rekognition/image-features/) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/face-detection)
+[Overview](https://aws.amazon.com/rekognition/image-features/) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/face-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
 
 - Where are the faces located in the image?
 - Given a face image, what other image shows the most similar face?
@@ -195,21 +195,21 @@ Customization in private preview
 - Is the person smiling?
 
 ### Google Cloud Vision
-[Overview](https://cloud.google.com/vision/docs/detecting-faces) | [Demo](https://cloud.google.com/vision/)
+[Overview](https://cloud.google.com/vision/docs/detecting-faces) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
 
 - Where are the faces and face parts located in the image?
 - Does the face express the emotional states of joy, sorrow, anger or surprise?
 - Is the person wearing headwear?
 
 ### IBM Watson Visual Recognition
-[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/)
+[Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-visual-recognition/pricing)
 
 - Where are the faces and face parts located in the image?
 - What are the age ranges of the persons?
 - What are their genders?
 
 ### Microsoft Cognitive Service Face
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
 
 - What are the faces and face parts localed in the image?
 - Are parts of the face occluded?
@@ -227,13 +227,13 @@ Customization in private preview
 ## Text recognition
 
 ### Amazon Rekognition
-[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection)
+[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
 
 - Where in the image file is text located?
 - What is the text content?
 
 ### Google Cloud Vision
-[Overview](https://cloud.google.com/vision/docs/ocr) | [Demo](https://cloud.google.com/vision/)
+[Overview](https://cloud.google.com/vision/docs/ocr) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
 
 - Where in the image file is text located?
 - What is the text content?
@@ -243,7 +243,7 @@ Customization in private preview
 *This feature is currently in private beta.*
 
 ### Microsoft Cognitive Services Computer Vision
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/)
 
 - Where in the image file is text located?
 - What is the text content?
