@@ -130,13 +130,15 @@ Support for 119 languages/locales
 
 ### IBM Speech to Text
 
-[Overview](https://www.ibm.com/watson/services/speech-to-text) | [Demo](https://speech-to-text-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-speech-to-text/pricing)
+[Overview](https://www.ibm.com/watson/services/speech-to-text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text-sample-output.json) | [Demo](https://speech-to-text-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-speech-to-text/pricing)
 
 Support for 9 languages
 
 ### Microsoft Cognitive Services Speech to Text (Preview)
 
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/microsoft-cognitive-services-speech-to-text-sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
+
+The REST API is limited to utterances of up to [14 seconds](https://docs.microsoft.com/gl-es/azure/cognitive-services/speech-service/rest-apis#speech-to-text).
 
 Support for 8 languages
 
