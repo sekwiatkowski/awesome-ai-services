@@ -29,7 +29,7 @@ A overview of awesome AI services maintained by Sebastian Kwiatkowski
 [Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/sample-input.txt)
 
 ### Amazon Comprehend
-[Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend-sample-output.json) | [UI](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
+[Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/sample-output.json) | [UI](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -38,7 +38,7 @@ A overview of awesome AI services maintained by Sebastian Kwiatkowski
 Supported entity types: commercial items, dates, events, locations, organizations, persons, quantities, other types, titles
 
 ### Google Cloud Natural Language
-[Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language-sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://cloud.google.com/natural-language/pricing)
+[Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud/natural-language-sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://cloud.google.com/natural-language/pricing)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -49,7 +49,7 @@ Supported entity types: commercial items, dates, events, locations, organization
 Supported entity types: consumer good, event, location, organization, person, work of art, other types
 
 ### IBM Watson Natural Understanding
-[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding-sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
+[Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
 - What are the entities mentioned in the document?
 - What are their types and subtypes?
@@ -59,7 +59,7 @@ Supported entity types:
 - [Subtypes](https://console.bluemix.net/docs/services/natural-language-understanding/entity-types-v1.html#entity-types-and-subtypes-version-1-#entity-subtypes)
 
 ### Microsoft Cognitive Services Text Analytics (Preview)
-[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/microsoft-cognitive-services-text-analytics-sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
+[Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/microsoft-cognitive-services-text-analytics/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
 - What are the entities mentioned in the document?
 - Where in the document are they mentioned?
