@@ -1,5 +1,5 @@
 // "input" is a string that holds the path to the input file (a local FLAC file, in this example).
-// For US English, "languageCode" is set to "en-US".
+// For US English, set "languageCode" to "en-US".
 
 try (SpeechClient client = SpeechClient.create()) {
     Path path = Paths.get(input);
