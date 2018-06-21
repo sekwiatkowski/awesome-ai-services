@@ -1,6 +1,6 @@
-// jobName is a self-descriptive string.
-// For speech in US English, languageCode is set to "en-US".
-// s3Uri is a string pointing to an audio file stored in an S3 bucket.
+// "jobName" is a self-descriptive string.
+// For speech in US English, "languageCode" is set to "en-US".
+// "s3Uri" is a string pointing to an audio file stored in an S3 bucket.
 
 AmazonTranscribe client = AmazonTranscribeClientBuilder
     .standard()
