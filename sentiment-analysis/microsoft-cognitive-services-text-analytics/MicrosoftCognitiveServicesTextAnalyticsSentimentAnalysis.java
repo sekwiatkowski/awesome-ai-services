@@ -21,6 +21,20 @@ public class Documents {
     }
 }
 
+public class SentimentAnalysis {
+    public String id;
+    public Double score;
+
+    public SentimentAnalysis(String id, Double score) {
+        this.id = id;
+        this.score = score;
+    }
+}
+
+public class Response {
+    public List<SentimentAnalysis> documents;
+}
+
 String host = "https://westeurope.api.cognitive.microsoft.com";
 String path = "/text/analytics/v2.0/sentiment";
 String url = host.concat(path);
@@ -29,6 +43,7 @@ Documents documents = new Documents();
 documents.add(id, language, textId);
 
 Gson gson = new Gson();
+
 String body = gson.toJson(documents);
 
 String stringResponse = Unirest.post(url)
