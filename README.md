@@ -42,7 +42,7 @@ Supported entity types: commercial items, dates, events, locations, organization
 ### Google Cloud Natural Language
 General: [Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloudnatural-language/sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://cloud.google.com/natural-language/pricing)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language/GoogleCloudNaturalLanguageEntityRecognition.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language/GoogleCloudNaturalLanguageEntityRecognition.java)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -108,7 +108,7 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/key
 ### Amazon Comprehend
 General: [Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.java)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
@@ -176,7 +176,7 @@ Support for 8 languages
 ### Amazon Polly
 General: [Overview](https://aws.amazon.com/polly/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/amazon-polly) | [UI](https://console.aws.amazon.com/polly/home) | [Pricing](https://aws.amazon.com/polly/pricing/)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-polly) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-polly) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.java)
 
 34 voices in 25 languages
 
