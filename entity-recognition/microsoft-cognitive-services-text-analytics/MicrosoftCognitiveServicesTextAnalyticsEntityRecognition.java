@@ -1,3 +1,5 @@
+// For English, set "language" to "en"
+
 public class Document {
     public String id, language, text;
 
