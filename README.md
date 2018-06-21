@@ -80,6 +80,8 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/ent
 ### Amazon Comprehend
 General: [Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/AmazonComprehendKeyphraseExtraction.java)
+
 - Which keywords can be extracted for the given document?
 - How often do each of these keywords occur?
 
@@ -89,10 +91,14 @@ General: [Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extrac
 ### IBM Watson Natural Understanding
 General: [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingKeyphraseExtraction.java)
+
 - Which keywords can be extracted for the given document?
 
 ### Microsoft Cognitive Services Text Analytics
 General: [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/microsoft-cognitive-services-text-analytics/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
+
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsKeyphraseExtraction.java)
 
 - Which keywords can be extracted for the given document?
 
