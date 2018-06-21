@@ -1,6 +1,6 @@
 // For English, "language" is set to "en".
 
-class Document {
+public class Document {
     public String id, language, text;
 
     public Document(String id, String language, String text) {
@@ -10,7 +10,7 @@ class Document {
     }
 }
 
-class Documents {
+public class Documents {
     public List<Document> documents;
 
     public Documents() {
