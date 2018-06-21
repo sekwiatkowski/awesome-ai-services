@@ -38,7 +38,7 @@ A overview of awesome AI services maintained by Sebastian Kwiatkowski
 Supported entity types: commercial items, dates, events, locations, organizations, persons, quantities, other types, titles
 
 ### Google Cloud Natural Language
-[Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud/natural-language-sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://cloud.google.com/natural-language/pricing)
+[Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloudnatural-language/sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://cloud.google.com/natural-language/pricing)
 
 - What are the entities mentioned in the document?
 - What are their types?
