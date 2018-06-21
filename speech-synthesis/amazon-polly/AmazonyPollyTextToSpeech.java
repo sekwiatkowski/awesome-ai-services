@@ -1,5 +1,5 @@
 // "ssml" is the input provided in the Speech Synthesis Markup Language.
-// Alternatively, you can provide raw text and set the text type to "TextType.Text"
+// Alternatively, you can provide raw text and set the text type to "TextType.Text".
 
 AmazonPolly client = AmazonPollyClientBuilder
     .standard()
