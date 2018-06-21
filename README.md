@@ -31,6 +31,8 @@ A overview of the AI-as-a-service landscape
 ### Amazon Comprehend
 General: [Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/sample-output.json) | [UI](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/AmazonComprehendEntityRecognition.java)
+
 - What are the entities mentioned in the document?
 - What are their types?
 - How often is each of these entities mentioned?
@@ -39,6 +41,8 @@ Supported entity types: commercial items, dates, events, locations, organization
 
 ### Google Cloud Natural Language
 General: [Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloudnatural-language/sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://cloud.google.com/natural-language/pricing)
+
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language/GoogleCloudNaturalLanguageEntityRecognition.java)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -51,6 +55,8 @@ Supported entity types: consumer good, event, location, organization, person, wo
 ### IBM Watson Natural Understanding
 General: [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingEntityRecognition.java)
+
 - What are the entities mentioned in the document?
 - What are their types and subtypes?
 
@@ -60,6 +66,8 @@ Supported entity types:
 
 ### Microsoft Cognitive Services Text Analytics (Preview)
 General: [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/microsoft-cognitive-services-text-analytics/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
+
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsEntityRecognition.java)
 
 - What are the entities mentioned in the document?
 - Where in the document are they mentioned?
