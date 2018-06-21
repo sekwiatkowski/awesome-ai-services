@@ -31,7 +31,7 @@ A overview of the AI-as-a-service landscape
 ### Amazon Comprehend
 General: [Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/sample-output.json) | [UI](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/AmazonComprehendEntityRecognition.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/AmazonComprehendEntityRecognition.java)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -42,7 +42,7 @@ Supported entity types: commercial items, dates, events, locations, organization
 ### Google Cloud Natural Language
 General: [Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloudnatural-language/sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://cloud.google.com/natural-language/pricing)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language/GoogleCloudNaturalLanguageEntityRecognition.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language/GoogleCloudNaturalLanguageEntityRecognition.java)
 
 - What are the entities mentioned in the document?
 - What are their types?
@@ -55,7 +55,7 @@ Supported entity types: consumer good, event, location, organization, person, wo
 ### IBM Watson Natural Understanding
 General: [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingEntityRecognition.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/natural-language-understanding) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingEntityRecognition.java)
 
 - What are the entities mentioned in the document?
 - What are their types and subtypes?
@@ -80,7 +80,7 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/ent
 ### Amazon Comprehend
 General: [Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/AmazonComprehendKeyphraseExtraction.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/AmazonComprehendKeyphraseExtraction.java)
 
 - Which keywords can be extracted for the given document?
 - How often do each of these keywords occur?
@@ -91,7 +91,7 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/key
 ### IBM Watson Natural Understanding
 General: [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingKeyphraseExtraction.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/natural-language-understanding) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingKeyphraseExtraction.java)
 
 - Which keywords can be extracted for the given document?
 
@@ -108,21 +108,21 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/key
 ### Amazon Comprehend
 General: [Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.java)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### Google Cloud Natural Language
 General: [Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/GoogleCloudNaturalLanguageSentimentAnalysis.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/GoogleCloudNaturalLanguageSentimentAnalysis.java)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### IBM Watson Natural Understanding
 General: [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingSentimentAnalysis.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/natural-language-understanding) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingSentimentAnalysis.java)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
@@ -142,21 +142,21 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sen
 ### Amazon Transcribe
 General: [Overview](https://aws.amazon.com/transcribe/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/sample-output.json) | [UI](https://console.aws.amazon.com/transcribe/home) | [Pricing](https://aws.amazon.com/transcribe/pricing/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/AmazonTranscribeSpeechToText.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-transcribe) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/AmazonTranscribeSpeechToText.java)
 
 Support for US English and Spanish
 
 ### Google Cloud Speech-to-Text
 General: [Overview](https://cloud.google.com/speech-to-text/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/sample-output.txt) | [Demo](https://cloud.google.com/speech-to-text/) | [Pricing](https://cloud.google.com/speech-to-text/pricing)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/GoogleCloudSpeechToText.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/GoogleCloudSpeechToText.java)
 
 Support for 119 languages/locales
 
 ### IBM Speech to Text
 General: [Overview](https://www.ibm.com/watson/services/speech-to-text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/sample-output.json) | [Demo](https://speech-to-text-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-speech-to-text/pricing)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/IbmWatsonSpeechToText.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/speech-to-text) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/IbmWatsonSpeechToText.java)
 
 Support for 9 languages
 
@@ -176,7 +176,7 @@ Support for 8 languages
 ### Amazon Polly
 General: [Overview](https://aws.amazon.com/polly/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/amazon-polly) | [UI](https://console.aws.amazon.com/polly/home) | [Pricing](https://aws.amazon.com/polly/pricing/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-polly) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.java)
 
 34 voices in 25 languages
 
@@ -190,14 +190,14 @@ SSML extensions:
 ### Google Cloud Text-to-Speech (Beta)
 General: [Overview](https://cloud.google.com/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/google-cloud-text-to-speech) | [Demo](https://cloud.google.com/text-to-speech/) | [Pricing](https://cloud.google.com/text-to-speech/pricing)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-speech-to-text/GoogleCloudSpeechToText.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-speech-to-text/GoogleCloudSpeechToText.java)
 
 28 voices in 14 languages
 
 ### IBM Watson Text to Speech
 General: [Overview](https://www.ibm.com/watson/services/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/ibm-watson-text-to-speech) | [Demo](https://text-to-speech-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-text-to-speech/pricing)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/text-to-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.java)
 
 13 voices in 7 languages
 
