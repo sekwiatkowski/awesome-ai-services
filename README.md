@@ -246,14 +246,14 @@ Customization in private preview
 [Sample input](http://awesome-ai-services.s3.amazonaws.com/text-recognition/welcome-to-utah.jpg)
 
 ### Amazon Rekognition
-[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/amazon-rekognition-sample-output.json) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
+[Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/amazon-rekognition/sample-output.json) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
 
 - Where in the image file is text located?
 - What is the text content?
 - Which boxes do individual words belong to?
 
 ### Google Cloud Vision
-[Overview](https://cloud.google.com/vision/docs/ocr) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/google-cloud-vision-sample-output.json) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
+[Overview](https://cloud.google.com/vision/docs/ocr) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/google-cloud-vision/sample-output.json) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
 
 - Where in the image file is text located?
 - What is the text content?
@@ -263,7 +263,7 @@ Customization in private preview
 *This feature is currently in private beta.*
 
 ### Microsoft Cognitive Services Computer Vision
-[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/microsoft-cognitive-services-computer-vision-sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/)
+[Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/microsoft-cognitive-services-computer-vision/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/)
 
 - Where in the image file is text located?
 - What is the text content?
