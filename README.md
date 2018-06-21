@@ -1,6 +1,6 @@
 # awesome-ai-services [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A overview of the AI-as-a-service landscape
+An overview of the AI-as-a-service landscape
 
 ## Sharing
 - [Share on Twitter](http://twitter.com/home?status=http://github.com/sekwiatkowski/awesome-ai-services)
