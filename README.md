@@ -158,6 +158,8 @@ Support for 8 languages
 
 [Overview](https://aws.amazon.com/polly/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/amazon-polly) | [UI](https://console.aws.amazon.com/polly/home) | [Pricing](https://aws.amazon.com/polly/pricing/)
 
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.java)
+
 34 voices in 25 languages
 
 SSML extensions:
@@ -171,11 +173,15 @@ SSML extensions:
 
 [Overview](https://cloud.google.com/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/google-cloud-text-to-speech) | [Demo](https://cloud.google.com/text-to-speech/) | [Pricing](https://cloud.google.com/text-to-speech/pricing)
 
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-speech-to-text/GoogleCloudSpeechToText.java)
+
 28 voices in 14 languages
 
 ### IBM Watson Text to Speech
 
 [Overview](https://www.ibm.com/watson/services/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/ibm-watson-text-to-speech) | [Demo](https://text-to-speech-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-text-to-speech/pricing)
+
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.java)
 
 13 voices in 7 languages
 
@@ -192,6 +198,8 @@ Customization:
 
 ### Microsoft Cognitive Services Text to Speech (Preview)
 [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/microsoft-cognitive-services) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
+
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/microsoft-cognitive-services-text-to-speech/MicrosoftCognitiveServicesTextToSpeech.java)
 
 80 voices in 32 languages
 
