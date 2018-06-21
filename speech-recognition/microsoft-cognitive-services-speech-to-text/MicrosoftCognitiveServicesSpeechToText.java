@@ -1,4 +1,4 @@
-// input is a string holding the path to a WAV file.
+// "input" is a string holding the path to a WAV file.
 
 Path inputPath = Paths.get(input);
 byte[] data = Files.readAllBytes(inputPath);
