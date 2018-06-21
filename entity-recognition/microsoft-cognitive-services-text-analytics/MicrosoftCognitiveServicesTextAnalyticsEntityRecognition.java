@@ -27,24 +27,11 @@ public class Entity {
     public String wikipediaId;
     public String wikipediaUrl;
     public String bingId;
-
-    public Entity(String name, String wikipediaLanguage, String wikipediaId, String wikipediaUrl, String bingId) {
-        this.name = name;
-        this.wikipediaLanguage = wikipediaLanguage;
-        this.wikipediaId = wikipediaId;
-        this.wikipediaUrl = wikipediaUrl;
-        this.bingId = bingId;
-    }
 }
 
 public class EntityRecognition {
     public String id;
     public List<Entity> entities;
-
-    public EntityRecognition(String id, List<Entity> entities) {
-        this.id = id;
-        this.entities = entities;
-    }
 }
 
 public class EntityRecognitionResponse {
