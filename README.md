@@ -275,7 +275,7 @@ JVM: *in progress*
 - Does the face express the emotional states of anger, contempt, disgust, fear, happiness sadness, surprise or a neutral state?
 - Arey they smiling?
 - Is the hair visible? What is the hair color? Or is the person bald?
-- Doe they have a moustache, a beard or sideburns?
+- Do they have a moustache, a beard or sideburns?
 - Are they wearing make-up?
 - What kind of acessories is the person wearing, if any?
 - What kind of glasses is the person wearing, if any?
