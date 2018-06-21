@@ -31,7 +31,7 @@ public class SentimentAnalysis {
     }
 }
 
-public class Response {
+public class SentimentAnalysisResponse {
     public List<SentimentAnalysis> documents;
 }
 
@@ -40,7 +40,7 @@ String path = "/text/analytics/v2.0/sentiment";
 String url = host.concat(path);
 
 Documents documents = new Documents();
-documents.add(id, language, textId);
+documents.add(id, language, text);
 
 Gson gson = new Gson();
 
@@ -53,4 +53,4 @@ String stringResponse = Unirest.post(url)
     .asString()
     .getBody();
 
-Response response = gson.fromJson(stringResponse, Response.class);
+Response response = gson.fromJson(stringResponse, SentimentAnalysis.class);
