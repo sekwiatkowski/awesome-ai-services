@@ -24,11 +24,6 @@ public class Documents {
 public class SentimentAnalysis {
     public String id;
     public Double score;
-
-    public SentimentAnalysis(String id, Double score) {
-        this.id = id;
-        this.score = score;
-    }
 }
 
 public class SentimentAnalysisResponse {
