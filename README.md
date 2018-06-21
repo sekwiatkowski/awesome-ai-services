@@ -120,11 +120,15 @@ Supported entity types:
 ### Amazon Transcribe
 [Overview](https://aws.amazon.com/transcribe/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/sample-output.json) | [UI](https://console.aws.amazon.com/transcribe/home) | [Pricing](https://aws.amazon.com/transcribe/pricing/)
 
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/AmazonTranscribeSpeechToText.java)
+
 Support for US English and Spanish
 
 ### Google Cloud Speech-to-Text
 
 [Overview](https://cloud.google.com/speech-to-text/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/sample-output.txt) | [Demo](https://cloud.google.com/speech-to-text/) | [Pricing](https://cloud.google.com/speech-to-text/pricing)
+
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/GoogleCloudSpeechToText.java)
 
 Support for 119 languages/locales
 
@@ -132,11 +136,15 @@ Support for 119 languages/locales
 
 [Overview](https://www.ibm.com/watson/services/speech-to-text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/sample-output.json) | [Demo](https://speech-to-text-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-speech-to-text/pricing)
 
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/IbmWatsonSpeechToText.java)
+
 Support for 9 languages
 
 ### Microsoft Cognitive Services Speech to Text (Preview)
 
 [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/microsoft-cognitive-services-speech-to-text/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
+
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/microsoft-cognitive-services-speech-to-text/MicrosoftCognitiveServicesSpeechToText.java)
 
 The REST API is limited to utterances of up to [14 seconds](https://docs.microsoft.com/gl-es/azure/cognitive-services/speech-service/rest-apis#speech-to-text).
 
