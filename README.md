@@ -111,20 +111,28 @@ General: [Overview](https://aws.amazon.com/translate/) | [Sample output](https:/
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-translate) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/amazon-translate/AmazonTranslateMachineTranslation.java)
 
+Support for [seven languages](https://aws.amazon.com/translate/details/]
+
 ### Google Cloud Translation API
 General: [Overview](https://cloud.google.com/translate/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.java) | [Demo](https://cloud.google.com/translate/#translate_demo_section) | [Pricing](https://cloud.google.com/translate/pricing)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-translate) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.java)
+
+Support for [98 language pairs](https://cloud.google.com/translate/docs/languages#languages-nmt) in neural machine translation model
 
 ### IBM Watson Language Translator
 General: [Overview](https://www.ibm.com/watson/services/language-translator/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/sample-output.txt) | [Demo](https://www.ibm.com/watson/services/language-translator/#demo) | [Price](https://www.ibm.com/cloud/watson-language-translator/pricing)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/language-translator) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/MicrosoftTranslatorTextMachineTranslation.java)
 
+Support for [33 language pairs](https://console.bluemix.net/docs/services/language-translator/translation-models.html#translation-models)
+
 ### Microsoft Cognitive Services Translator Text
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/translator-text-api/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/sample-output.txt) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator-text-api/)
 
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/MicrosoftTranslatorTextMachineTranslation.java)
+
+Support for [39 language pairs](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/languages) 
 
 ## Sentiment Analysis
 [Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/sample-input.txt)
