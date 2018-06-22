@@ -229,7 +229,7 @@ Customization in private preview
 ### Amazon Rekognition
 General: [Overview](https://aws.amazon.com/rekognition/image-features/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/amazon-rekognition/sample-output.json) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/face-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
 
-JVM: *in progress*
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-rekognition) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/amazon-rekognition/AmazonRekognitionFaceRecognition.java)
 
 - Where are the faces and face parts located in the image?
 - What are the age ranges of the persons shown?
@@ -245,7 +245,7 @@ JVM: *in progress*
 ### Google Cloud Vision
 General: [Overview](https://cloud.google.com/vision/docs/detecting-faces) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/google-cloud-vision/sample-output.json) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
 
-JVM: *in progress*
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-vision) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/google-cloud-vision/GoogleCloudVisionFaceRecognition.java)
 
 - Where are the faces and face parts located in the image?
 - What is the pose of the faces?
@@ -256,7 +256,7 @@ JVM: *in progress*
 ### IBM Watson Visual Recognition
 General: [Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/ibm-watson-visual-recognition/sample.output.json) | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-visual-recognition/pricing)
 
-JVM: *in progress*
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/visual-recognition) [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/ibm-watson-visual-recognition/IbmWatsonVisualRecognitionFaceRecognition.java)
 
 - Where are the faces located in the image?
 - What are the age ranges of the persons shown?
@@ -265,7 +265,7 @@ JVM: *in progress*
 ### Microsoft Cognitive Service Face
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-face/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
 
-JVM: *in progress*
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-face/MicrosoftCognitiveServicesFaceFaceRecognition.java)
 
 - What are the faces and face parts located in the image?
 - Are parts of the faces occluded?
