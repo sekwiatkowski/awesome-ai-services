@@ -104,7 +104,17 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/key
 - Which keywords can be extracted for the given document?
 
 ## Machine Translation
+[Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/sample-input.txt)
+
 *in progress*
+
+### Amazon Translate
+
+### Google Cloud Translation API
+
+### Language Translator
+
+### Microsoft Cognitive Services Translator Text
 
 ## Sentiment Analysis
 [Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/sample-input.txt)
