@@ -111,7 +111,7 @@ General: [Overview](https://aws.amazon.com/translate/) | [Sample output](https:/
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-translate) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/amazon-translate/AmazonTranslateMachineTranslation.java)
 
-Support for [seven languages](https://aws.amazon.com/translate/details/]
+Support for [seven languages](https://aws.amazon.com/translate/details/)
 
 ### Google Cloud Translation API
 General: [Overview](https://cloud.google.com/translate/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.java) | [Demo](https://cloud.google.com/translate/#translate_demo_section) | [Pricing](https://cloud.google.com/translate/pricing)
