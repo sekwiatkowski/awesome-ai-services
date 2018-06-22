@@ -288,7 +288,7 @@ JVM: *in progress*
 ### Amazon Rekognition
 General: [Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/amazon-rekognition/sample-output.json) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
 
-JVM: *in progress*
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/amazon-rekognition/AmazonRekognitionTextRecognition.java)
 
 - Where in the image file is text located?
 - What is the text content?
@@ -297,19 +297,19 @@ JVM: *in progress*
 ### Google Cloud Vision
 General: [Overview](https://cloud.google.com/vision/docs/ocr) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/google-cloud-vision/sample-output.json) | [Demo](https://cloud.google.com/vision/) | [Pricing](https://cloud.google.com/vision/pricing)
 
-JVM: *in progress*
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/google-cloud-vision/GoogleCloudVisionTextRecognition.java)
 
 - Where in the image file is text located?
 - What is the text content?
 - What is the language of the text content?
 
 ### IBM Watson Visual Recognition
-*This feature is currently in private beta.*
+*This feature is currently in [private beta](https://datasciencex.typeform.com/to/nU6efl).*
 
 ### Microsoft Cognitive Services Computer Vision
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/microsoft-cognitive-services-computer-vision/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/)
 
-JVM: *in progress*
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/microsoft-cognitive-services-computer-vision/MicrosoftCognitiveServicesComputerVisionTextRecognition.java)
 
 - Where in the image file is text located?
 - What is the text content?
