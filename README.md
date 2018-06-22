@@ -13,6 +13,7 @@ An overview of the AI-as-a-service landscape
 ### Natural Language
 - [Entity Recognition](#entity-recognition)
 - [Keyphrase Extraction](#keyphrase-extraction)
+- [Machine Translation](#machine-translation)
 - [Sentiment Analysis](#sentiment-analysis)
 
 ## Speech
@@ -101,6 +102,9 @@ General: [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/te
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsKeyphraseExtraction.java)
 
 - Which keywords can be extracted for the given document?
+
+## Machine Translation
+*in progress*
 
 ## Sentiment Analysis
 [Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/sample-input.txt)
