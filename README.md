@@ -109,12 +109,16 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/key
 *in progress*
 
 ### Amazon Translate
+General: [Overview](https://aws.amazon.com/translate/)
 
 ### Google Cloud Translation API
+General: [Overview](https://cloud.google.com/translate/)
 
-### Language Translator
+### IBM Watson Language Translator
+General: [Overview](https://www.ibm.com/watson/services/language-translator/)
 
 ### Microsoft Cognitive Services Translator Text
+General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/translator-text-api/)
 
 ## Sentiment Analysis
 [Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/sample-input.txt)
