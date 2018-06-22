@@ -1,6 +1,8 @@
+// "content" is a string containg the input document.
+
 try (LanguageServiceClient language = LanguageServiceClient.create()) {
     Document document = Document.newBuilder()
-        .setContent(text)
+        .setContent(content)
         .setType(Document.Type.PLAIN_TEXT)
         .build();
 
