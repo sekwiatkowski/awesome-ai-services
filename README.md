@@ -112,9 +112,9 @@ General: [Overview](https://aws.amazon.com/translate/) | [Sample output](https:/
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-translate) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/amazon-translate/AmazonTranslateMachineTranslation.java)
 
 ### Google Cloud Translation API
-General: [Overview](https://cloud.google.com/translate/) | [Demo](https://cloud.google.com/translate/#translate_demo_section) | [Pricing](https://cloud.google.com/translate/pricing)
+General: [Overview](https://cloud.google.com/translate/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.java) | [Demo](https://cloud.google.com/translate/#translate_demo_section) | [Pricing](https://cloud.google.com/translate/pricing)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-translate)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-translate) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.java)
 
 ### IBM Watson Language Translator
 General: [Overview](https://www.ibm.com/watson/services/language-translator/) | [Demo](https://www.ibm.com/watson/services/language-translator/#demo) | [Price](https://www.ibm.com/cloud/watson-language-translator/pricing)
