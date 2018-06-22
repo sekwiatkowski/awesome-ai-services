@@ -2,10 +2,10 @@
 
 Path path = Paths.get(input);
 byte[] data = Files.readAllBytes(path);
-ByteString imgBytes = ByteString.copyFrom(data);
+ByteString bytes = ByteString.copyFrom(data);
 
 Image image = Image.newBuilder()
-    .setContent(imgBytes)
+    .setContent(bytes)
     .build();
 Feature feature = Feature.newBuilder()
     .setType(Feature.Type.TEXT_DETECTION)
