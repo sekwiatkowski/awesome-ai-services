@@ -1,0 +1,14 @@
+Maschinelles Lernen ist eine Teilmenge künstlicher Intelligenz auf dem Gebiet der Informatik, die häufig statistische Techniken verwendet, um Computern die Fähigkeit zu geben, Daten mit Daten zu "lernen" (d. H. Progressiv die Leistung bei einer bestimmten Aufgabe zu verbessern), ohne explizit programmiert zu sein.
+
+Tom M. Mitchell lieferte eine weit zitierte, formellere Definition der im Bereich des maschinellen Lernens untersuchten Algorithmen: "Ein Computerprogramm soll aus Erfahrung E in Bezug auf eine Klasse von Aufgaben T und Leistungsmaß P lernen, wenn es bei Aufgaben auftritt in T, gemessen an P, verbessert sich mit Erfahrung E.
+
+Machine Learning-Aufgaben werden typischerweise in zwei große Kategorien unterteilt, je nachdem, ob ein lernendes "Signal" oder "Feedback" für ein lernendes System verfügbar ist:
+
+Überwachtes Lernen: Der Computer wird mit Beispieleingaben und ihren gewünschten Ausgaben vorgestellt, die von einem "Lehrer" gegeben werden, und das Ziel besteht darin, eine allgemeine Regel zu lernen, die Eingaben den Ausgaben zuordnet. In besonderen Fällen kann das Eingangssignal nur teilweise verfügbar sein oder auf spezielle Rückmeldungen beschränkt sein:
+Unüberwachtes Lernen: Dem Lernalgorithmus werden keine Beschriftungen zugewiesen, so dass er selbst in seiner Eingabe eine Struktur findet. Unüberwachtes Lernen kann ein Ziel an sich sein (das Aufdecken verborgener Muster in Daten) oder ein Mittel zum Zweck (Merkmallernen).
+
+Eine weitere Kategorisierung von maschinellen Lernaufgaben ergibt sich, wenn man die gewünschte Leistung eines maschinell gelernten Systems betrachtet:
+
+Bei der Klassifizierung werden die Eingaben in zwei oder mehr Klassen unterteilt, und der Lernende muss ein Modell erstellen, das einer oder mehreren (Multi-Label-Klassifikation) dieser Klassen ungesehene Eingaben zuordnet. Dies wird typischerweise überwacht gehandhabt. Die Spam-Filterung ist ein Beispiel für eine Klassifizierung, bei der die Eingaben E-Mail- (oder andere) Nachrichten sind und die Klassen "Spam" und "kein Spam" sind.
+In der Regression, auch ein überwachtes Problem, sind die Ausgaben kontinuierlich und nicht diskret.
+Beim Clustering ist eine Reihe von Eingaben in Gruppen zu unterteilen. Anders als bei der Klassifizierung sind die Gruppen nicht im Voraus bekannt, was sie typischerweise zu einer unbeaufsichtigten Aufgabe macht.
