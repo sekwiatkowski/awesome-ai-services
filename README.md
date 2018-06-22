@@ -109,16 +109,16 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/key
 *in progress*
 
 ### Amazon Translate
-General: [Overview](https://aws.amazon.com/translate/)
+General: [Overview](https://aws.amazon.com/translate/) | [UI](https://console.aws.amazon.com/translate/home?region=us-east-1#explorer) | [Pricing](https://aws.amazon.com/translate/pricing/)
 
 ### Google Cloud Translation API
-General: [Overview](https://cloud.google.com/translate/)
+General: [Overview](https://cloud.google.com/translate/) | [Demo](https://cloud.google.com/translate/#translate_demo_section) | [Pricing](https://cloud.google.com/translate/pricing)
 
 ### IBM Watson Language Translator
-General: [Overview](https://www.ibm.com/watson/services/language-translator/)
+General: [Overview](https://www.ibm.com/watson/services/language-translator/) | [Demo](https://www.ibm.com/watson/services/language-translator/#demo) | [Price](https://www.ibm.com/cloud/watson-language-translator/pricing)
 
 ### Microsoft Cognitive Services Translator Text
-General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/translator-text-api/)
+General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/translator-text-api/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator-text-api/)
 
 ## Sentiment Analysis
 [Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/sample-input.txt)
