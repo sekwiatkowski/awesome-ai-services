@@ -1,3 +1,4 @@
+// "text" is a string containing the input document.
 // For English, set "languageCode" to "en".
 
 AmazonComprehend client = AmazonComprehendClientBuilder
