@@ -2,19 +2,19 @@
 // For US English, set "languageCode" to "en-US".
 
 try (SpeechClient client = SpeechClient.create()) {
-    Path path = Paths.get(input);
-    byte[] data = Files.readAllBytes(path);
-    ByteString audioBytes = ByteString.copyFrom(data);
+    Path inputPath = Paths.get(input);
+    byte[] bytes = Files.readAllBytes(inputPath);
+    ByteString content = ByteString.copyFrom(bytes);
 
     RecognitionConfig config = RecognitionConfig.newBuilder()
         .setEncoding(RecognitionConfig.AudioEncoding.FLAC)
         .setLanguageCode(languageCode)
         .build();
     RecognitionAudio audio = RecognitionAudio.newBuilder()
-        .setContent(audioBytes)
+        .setContent(content)
         .build();
 
     RecognizeResponse response = client.recognize(config, audio);
 
-    List<SpeechRecognitionResult> resultsList = response.getResultsList();
+    List<SpeechRecognitionResult> results = response.getResultsList();
 }
