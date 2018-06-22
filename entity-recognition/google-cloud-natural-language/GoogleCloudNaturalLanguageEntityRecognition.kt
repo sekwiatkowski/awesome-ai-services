@@ -1,3 +1,5 @@
+// "content" is a string containg the input document.
+
 val client = LanguageServiceClient.create()
 
 val document = Document.newBuilder()
@@ -8,3 +10,5 @@ val document = Document.newBuilder()
 val entities = client
     .analyzeEntities(document, EncodingType.UTF8)
     .entitiesList
+
+client.close()
