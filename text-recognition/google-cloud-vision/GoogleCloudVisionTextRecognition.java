@@ -19,9 +19,9 @@ List<AnnotateImageRequest> requests = new ArrayList<>();
 requests.add(request);
 
 try (ImageAnnotatorClient client = ImageAnnotatorClient.create()) {
-    BatchAnnotateImagesResponse response = client.batchAnnotateImages(requests);
-    AnnotateImageResponse responses = response.getResponsesList().get(0);
+    BatchAnnotateImagesResponse batchResponse = client.batchAnnotateImages(requests);
+    AnnotateImageResponse response = batchResponse.getResponsesList().get(0);
 
-    List<EntityAnnotation> textAnnotationsList = responses.getTextAnnotationsList();
-    TextAnnotation fullTextAnnotation = responses.getFullTextAnnotation();
+    List<EntityAnnotation> textAnnotationsList = response.getTextAnnotationsList();
+    TextAnnotation fullTextAnnotation = response.getFullTextAnnotation();
 }
