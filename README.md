@@ -117,9 +117,9 @@ General: [Overview](https://cloud.google.com/translate/) | [Sample output](https
 JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-translate) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.java)
 
 ### IBM Watson Language Translator
-General: [Overview](https://www.ibm.com/watson/services/language-translator/) | [Demo](https://www.ibm.com/watson/services/language-translator/#demo) | [Price](https://www.ibm.com/cloud/watson-language-translator/pricing)
+General: [Overview](https://www.ibm.com/watson/services/language-translator/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/sample-output.txt) | [Demo](https://www.ibm.com/watson/services/language-translator/#demo) | [Price](https://www.ibm.com/cloud/watson-language-translator/pricing)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/language-translator)
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/language-translator) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/MicrosoftTranslatorTextMachineTranslation.java)
 
 ### Microsoft Cognitive Services Translator Text
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/translator-text-api/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/sample-output.txt) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator-text-api/)
