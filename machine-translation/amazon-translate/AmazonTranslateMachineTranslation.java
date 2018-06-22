@@ -14,5 +14,3 @@ TranslateTextRequest request = new TranslateTextRequest()
 
 TranslateTextResult result = client.translateText(request);
 String translation = result.getTranslatedText();
-
-System.out.println(translation);
