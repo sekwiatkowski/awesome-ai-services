@@ -1,11 +1,11 @@
 // input is a string holding the path to the image.
 
 Path path = Paths.get(input);
-byte[] data = Files.readAllBytes(path);
-ByteString bytes = ByteString.copyFrom(data);
+byte[] bytes = Files.readAllBytes(path);
+ByteString content = ByteString.copyFrom(bytes);
 
 Image image = Image.newBuilder()
-    .setContent(bytes)
+    .setContent(content)
     .build();
 Feature feature = Feature.newBuilder()
     .setType(Feature.Type.TEXT_DETECTION)
