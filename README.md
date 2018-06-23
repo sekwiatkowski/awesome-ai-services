@@ -214,6 +214,8 @@ Support for 8 languages
 ### Amazon Polly
 General: [Overview](https://aws.amazon.com/polly/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/amazon-polly) | [UI](https://console.aws.amazon.com/polly/home) | [Pricing](https://aws.amazon.com/polly/pricing/)
 
+JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/amazon-polly-speech-synthesis.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-polly) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.kt)
 
 34 voices in 25 languages
