@@ -14,7 +14,7 @@ String token = Unirest.post(tokenUrl)
     .getBody();
 
 String sttHost = "https://westus.stt.speech.microsoft.com";
-String sstPath = String sstPath = String.format("/speech/recognition/conversation/cognitiveservices/v1?language=%s", languageCode);
+String sstPath = String.format("/speech/recognition/conversation/cognitiveservices/v1?language=%s", languageCode);
 String sstUrl = sttHost.concat(sstPath);
 
 String response = Unirest.post(sstUrl)
