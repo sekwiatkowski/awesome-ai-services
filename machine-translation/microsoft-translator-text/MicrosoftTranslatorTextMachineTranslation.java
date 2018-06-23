@@ -1,4 +1,4 @@
-// "input" is a string containing the input document.
+// "targetLanguages" is a list of strings. To translate into German and Italian, add "de" and "it" to that list.
 
 public class TranslatorTextRequest {
     String Text;
@@ -29,9 +29,11 @@ String host = "https://api.cognitive.microsofttranslator.com";
 String path = "/translate?api-version=3.0";
 String base = host.concat(path);
 
-String url = new URIBuilder(base)
-    .addParameter("to", "de")
-    .toString();
+URIBuilder builder = new URIBuilder(base);
+for (String targetLanguage : targetLanguages) {
+    builder.addParameter("to", targetLanguage);
+}
+String url = builder.toString();
 
 TranslatorTextRequest request = new TranslatorTextRequest(input);
 List<TranslatorTextRequest> requests = new ArrayList<>();
