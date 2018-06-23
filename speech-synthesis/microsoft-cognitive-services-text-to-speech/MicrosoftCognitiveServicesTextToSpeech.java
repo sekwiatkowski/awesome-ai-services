@@ -1,4 +1,4 @@
-// "ssml" is the input provided in the Speech Synthesis markup Language.
+// "ssml" is the input provided in the Speech Synthesis Markup Language.
 
 String tokenHost = "https://westus.api.cognitive.microsoft.com";
 String tokenPath = "/sts/v1.0/issueToken";
