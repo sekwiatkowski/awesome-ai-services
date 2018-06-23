@@ -16,5 +16,9 @@ val request = SynthesizeSpeechRequest()
 val result = client.synthesizeSpeech(request)
 val audioStream = result.audioStream
 
-val bytes = audioContent.toByteArray()
-FileOutputStream(outputFile).use { stream -> stream.write(bytes) }
+val fileOutputStream = FileOutputStream(outputFile)
+
+IOUtils.copy(audioStream, fileOutputStream)
+
+audioStream.close()
+fileOutputStream.close()
