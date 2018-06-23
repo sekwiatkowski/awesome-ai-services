@@ -1,6 +1,6 @@
 // For English, set "language" to "en".
 
-class Document(val id: String, val language: String, val text: String)
+data class Document(val id: String, val language: String, val text: String)
 
 data class Entity(
     val name : String,
@@ -30,3 +30,4 @@ val stringResponse = Unirest.post(url)
     .body
 
 val response = gson.fromJson(stringResponse, EntityRecognitionResponse::class.java)
+val entities = response.documents.single().entities
