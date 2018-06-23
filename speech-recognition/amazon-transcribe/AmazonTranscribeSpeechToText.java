@@ -12,7 +12,7 @@ Media media = new Media().withMediaFileUri(s3Uri);
 
 StartTranscriptionJobRequest startRequest = new StartTranscriptionJobRequest()
     .withTranscriptionJobName(jobName)
-    .withLanguageCode("en-US")
+    .withLanguageCode(languageCode)
     .withMedia(media)
     .withMediaFormat(MediaFormat.Mp3.toString());
 
