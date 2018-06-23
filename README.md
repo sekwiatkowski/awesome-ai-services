@@ -297,7 +297,7 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/v
 ### Microsoft Cognitive Service Face
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-face/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-face/MicrosoftCognitiveServicesFaceFaceRecognition.java) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-face/MicrosoftCognitiveServicesFaceFaceRecognition.kt)
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-face/MicrosoftCognitiveServicesFaceFaceRecognition.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/microsoft-cognitive-services-face/MicrosoftCognitiveServicesFaceFaceRecognition.kt)
 
 - What are the faces and face parts located in the image?
 - Are parts of the faces occluded?
