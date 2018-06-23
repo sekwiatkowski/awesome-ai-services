@@ -1,6 +1,8 @@
 // "text" is a String containg the input document.
 // For English, set "language" to "en".
 
+class Document(val id: String, val language: String, var text: String)
+
 data class KeyphraseExtraction(
     val id: String,
     val keyPhrases: List<String>)
@@ -12,8 +14,7 @@ val host = "https://westeurope.api.cognitive.microsoft.com"
 val path = "/text/analytics/v2.0/keyPhrases"
 val url = host + path
 
-val documents = Documents()
-documents.add("1", language, text)
+val documents = listOf(Document("1", language, text))
 
 val gson = Gson()
 val body = gson.toJson(documents)
