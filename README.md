@@ -135,7 +135,7 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/mac
 Support for [39 language pairs](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/languages) 
 
 ## Sentiment Analysis
-[Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/sample-input.txt)
+[Overview](https://towardsdatascience.com/machine-learning-as-a-service-487e930265b2) | [Sample input](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/sample-input.txt)
 
 ### Amazon Comprehend
 General: [Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
@@ -169,7 +169,7 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sen
 
 <h2 id="speech-to-text">Speech to Text / Speech Recognition</h2>
 
-[Sample input](http://awesome-ai-services.s3.amazonaws.com/speech-recognition/greys-anatomy-introduction-60-seconds.mp3)
+[Overview](https://towardsdatascience.com/speech-synthesis-as-a-service-5c65d17e62f4) | [Sample input](http://awesome-ai-services.s3.amazonaws.com/speech-recognition/greys-anatomy-introduction-60-seconds.mp3)
 
 ### Amazon Transcribe
 General: [Overview](https://aws.amazon.com/transcribe/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/sample-output.json) | [UI](https://console.aws.amazon.com/transcribe/home) | [Pricing](https://aws.amazon.com/transcribe/pricing/)
