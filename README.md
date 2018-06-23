@@ -83,6 +83,8 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/ent
 ### Amazon Comprehend
 General: [Overview](https://aws.amazon.com/comprehend/features/#Keyphrase_Extraction) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
+JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/amazon-comprehend-keyphrase-extraction.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/AmazonComprehendKeyphraseExtraction.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/amazon-comprehend/AmazonComprehendKeyphraseExtraction.kt)
 
 - Which keywords can be extracted for the given document?
