@@ -140,28 +140,28 @@ Support for [39 language pairs](https://docs.microsoft.com/en-us/azure/cognitive
 ### Amazon Comprehend
 General: [Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.kt)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### Google Cloud Natural Language
 General: [Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/GoogleCloudNaturalLanguageSentimentAnalysis.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/GoogleCloudNaturalLanguageSentimentAnalysis.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/GoogleCloudNaturalLanguageSentimentAnalysis.kt)
 
 - To what extent does the document express an overal positive, negative, neutral or mixed sentiment?
 
 ### IBM Watson Natural Understanding
 General: [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/natural-language-understanding) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingSentimentAnalysis.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/natural-language-understanding) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingSentimentAnalysis.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingSentimentAnalysis.kt)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
 ### Microsoft Cognitive Services Text Analytics
 General: [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/microsoft-cognitive-services-text-analytics/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsSentimentAnalysis.java)
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsSentimentAnalysis.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsSentimentAnalysis.kt)
 
 - To what extent does the document express an overal positive, negative or neutral sentiment?
 
