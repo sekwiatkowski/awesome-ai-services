@@ -180,6 +180,8 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sen
 ### Amazon Transcribe
 General: [Overview](https://aws.amazon.com/transcribe/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/sample-output.json) | [UI](https://console.aws.amazon.com/transcribe/home) | [Pricing](https://aws.amazon.com/transcribe/pricing/)
 
+JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-comprehend/amazon-comprehend-speech-recognition.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-transcribe) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/AmazonTranscribeSpeechToText.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/amazon-transcribe/AmazonTranscribeSpeechToText.kt)
 
 Support for US English and Spanish
