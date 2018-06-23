@@ -18,8 +18,7 @@ StartTranscriptionJobRequest startRequest = new StartTranscriptionJobRequest()
 
 client.startTranscriptionJob(startRequest);
 
-GetTranscriptionJobRequest getRequest = new GetTranscriptionJobRequest();
-getRequest.setTranscriptionJobName(jobName);
+GetTranscriptionJobRequest getRequest = new GetTranscriptionJobRequest().withTranscriptionJobName(jobName);
 
 while (true) {
     GetTranscriptionJobResult getResponse = client.getTranscriptionJob(getRequest);
