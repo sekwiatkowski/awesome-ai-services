@@ -1,4 +1,4 @@
-// For US English, set "languageCode" to "en-US".
+// For English, set "languageCode" to "en".
 
 AmazonComprehend client = AmazonComprehendClientBuilder
     .standard()
