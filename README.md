@@ -32,6 +32,8 @@ An overview of the AI-as-a-service landscape
 ### Amazon Comprehend
 General: [Overview](https://docs.aws.amazon.com/comprehend/latest/dg/how-entities.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/sample-output.json) | [UI](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
+JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/amazon-comprehend-entity-recognition.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/AmazonComprehendEntityRecognition.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/amazon-comprehend/AmazonComprehendEntityRecognition.kt)
 
 - What are the entities mentioned in the document?
