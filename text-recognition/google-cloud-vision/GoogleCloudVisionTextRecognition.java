@@ -1,4 +1,4 @@
-// input is a string holding the path to the image.
+// "input" is a string holding the path to the image.
 
 Path path = Paths.get(input);
 byte[] bytes = Files.readAllBytes(path);
