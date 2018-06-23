@@ -1,4 +1,4 @@
-// "input" is a Stirng containing raw text or Speech Synthesis Markup Language (SSML) content.
+// "input" is a String containing raw text or Speech Synthesis Markup Language (SSML) content.
 
 TextToSpeech client = new TextToSpeech(username, password);
 
