@@ -28,7 +28,7 @@ String endpoint = "/vision/v2.0/recognizeText";
 String base = host.concat(endpoint);
 
 String url = new URIBuilder(base)
-    .setParameter("mode", "Printed")
+    .setParameter("mode", mode)
     .toString();
 
 HttpResponse<String> recognitionResponse = Unirest.post(url)
