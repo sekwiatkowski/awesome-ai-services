@@ -140,7 +140,7 @@ Support for [39 language pairs](https://docs.microsoft.com/en-us/azure/cognitive
 ### Amazon Comprehend
 General: [Overview](https://aws.amazon.com/comprehend/features#Sentiment_Analysis) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/sample-output.json) | [Demo](https://console.aws.amazon.com/comprehend/v2/home?region=us-east-1#home) | [Pricing](https://aws.amazon.com/comprehend/pricing/)
 
-JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.js)
+JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/amazon-comprehend-sentiment-analysis.js)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-comprehend) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/amazon-comprehend/AmazonComprehendSentimentAnalysis.kt)
 
