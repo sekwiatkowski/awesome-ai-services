@@ -56,3 +56,4 @@ String stringResponse = Unirest.post(url)
     .getBody();
 
 Response response = gson.fromJson(stringResponse, EntityRecognitionResponse.class);
+List<Entity> entities = response.documents.get(0).entities;
