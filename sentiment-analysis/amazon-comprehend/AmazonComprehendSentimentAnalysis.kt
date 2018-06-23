@@ -1,5 +1,5 @@
 // "text" is a String containing the input document.
-// For English, set" languageCode" to "en".
+// For English, set "languageCode" to "en".
 
 val client = AmazonComprehendClientBuilder
     .standard()
