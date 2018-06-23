@@ -208,7 +208,7 @@ Support for 8 languages
 ### Amazon Polly
 General: [Overview](https://aws.amazon.com/polly/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/amazon-polly) | [UI](https://console.aws.amazon.com/polly/home) | [Pricing](https://aws.amazon.com/polly/pricing/)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-polly) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-polly) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/amazon-polly/AmazonyPollyTextToSpeech.kt)
 
 34 voices in 25 languages
 
@@ -222,14 +222,14 @@ SSML extensions:
 ### Google Cloud Text-to-Speech (Beta)
 General: [Overview](https://cloud.google.com/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/google-cloud-text-to-speech) | [Demo](https://cloud.google.com/text-to-speech/) | [Pricing](https://cloud.google.com/text-to-speech/pricing)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-speech-to-text/GoogleCloudSpeechToText.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-speech-to-text/GoogleCloudSpeechToText.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-speech-to-text/GoogleCloudSpeechToText.kt)
 
 28 voices in 14 languages
 
 ### IBM Watson Text to Speech
 General: [Overview](https://www.ibm.com/watson/services/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/ibm-watson-text-to-speech) | [Demo](https://text-to-speech-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-text-to-speech/pricing)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/text-to-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.java)
+JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/text-to-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.kt)
 
 13 voices in 7 languages
 
@@ -247,7 +247,7 @@ Customization:
 ### Microsoft Cognitive Services Text to Speech (Preview)
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/microsoft-cognitive-services) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
 
-JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/microsoft-cognitive-services-text-to-speech/MicrosoftCognitiveServicesTextToSpeech.java)
+JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/microsoft-cognitive-services-text-to-speech/MicrosoftCognitiveServicesTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/microsoft-cognitive-services-text-to-speech/MicrosoftCognitiveServicesTextToSpeech.kt)
 
 80 voices in 32 languages
 
