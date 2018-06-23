@@ -49,3 +49,4 @@ String stringResponse = Unirest.post(url)
     .getBody();
 
 Response response = gson.fromJson(stringResponse, SentimentAnalysis.class);
+Double score = response.documents.get(0).score;
