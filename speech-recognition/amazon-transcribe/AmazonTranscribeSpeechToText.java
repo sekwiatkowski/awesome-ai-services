@@ -8,15 +8,13 @@ AmazonTranscribe client = AmazonTranscribeClientBuilder
     .withRegion(Regions.US_EAST_1)
     .build();
 
-StartTranscriptionJobRequest startRequest = new StartTranscriptionJobRequest();
+Media media = new Media().withMediaFileUri(s3Uri);
 
-startRequest.setTranscriptionJobName(jobName);
-startRequest.setLanguageCode(languageCode);
-
-Media media = new Media();
-media.setMediaFileUri(s3Uri);
-startRequest.setMedia(media);
-startRequest.setMediaFormat(MediaFormat.Mp3.toString());
+StartTranscriptionJobRequest startRequest = new StartTranscriptionJobRequest()
+    .withTranscriptionJobName(jobName)
+    .withLanguageCode("en-US")
+    .withMedia(media)
+    .withMediaFormat(MediaFormat.Mp3.toString());
 
 client.startTranscriptionJob(startRequest);
 
