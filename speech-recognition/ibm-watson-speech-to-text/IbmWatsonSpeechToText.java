@@ -1,4 +1,4 @@
-// "audio" can be a File or an InputStream object
+// "audio" can be a File or an InputStream object.
 
 SpeechToText client = new SpeechToText(username, password);
 
