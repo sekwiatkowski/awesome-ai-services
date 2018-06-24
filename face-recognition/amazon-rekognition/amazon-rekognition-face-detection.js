@@ -7,15 +7,15 @@ const rekognition = new AWS.Rekognition({
     region: 'us-east-1'
 })
 
-fs.readFile(input, (readErr, image) => {
+fs.readFile(input, (readErr, bytes) => {
     const params = {
         Image: {
-            Bytes: image
+            Bytes: bytes
         },
         Attributes: [ 'ALL' ]
     }
 
-    rekognition.detectFaces(params, (detectionErr, faceDetections) => {
-        // do something with the face detections
+    rekognition.detectFaces(params, (detectErr, res) => {
+        const faceDetails = res.FaceDetails
     })
 })
