@@ -113,6 +113,8 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/key
 ### Amazon Translate
 General: [Overview](https://aws.amazon.com/translate/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/amazon-translate/sample-output.txt) | [UI](https://console.aws.amazon.com/translate/home?region=us-east-1#explorer) | [Pricing](https://aws.amazon.com/translate/pricing/)
 
+JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/amazon-translate/amazon-translate-machine-translation.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-translate) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/amazon-translate/AmazonTranslateMachineTranslation.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/amazon-translate/AmazonTranslateMachineTranslation.kt)
 
 Support for [seven languages](https://aws.amazon.com/translate/details/)
