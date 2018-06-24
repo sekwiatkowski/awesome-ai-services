@@ -240,7 +240,7 @@ SSML extensions:
 ### Google Cloud Text-to-Speech (Beta)
 General: [Overview](https://cloud.google.com/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/google-cloud-text-to-speech) | [Demo](https://cloud.google.com/text-to-speech/) | [Pricing](https://cloud.google.com/text-to-speech/pricing)
 
-JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-speech-to-text/GoogleCloudSpeechToText.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-speech-to-text/GoogleCloudSpeechToText.kt)
+JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-text-to-speech/GoogleCloudTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-text-to-speech/GoogleCloudTextToSpeech.kt)
 
 28 voices in 14 languages
 
