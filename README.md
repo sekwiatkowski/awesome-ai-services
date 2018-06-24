@@ -197,7 +197,7 @@ Support for US English and Spanish
 ### Google Cloud Speech-to-Text
 General: [Overview](https://cloud.google.com/speech-to-text/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/sample-output.txt) | [Demo](https://cloud.google.com/speech-to-text/) | [Pricing](https://cloud.google.com/speech-to-text/pricing)
 
-JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/google-cloud-speech-to-text.js)
+JavaScript: [NPM](https://www.npmjs.com/package/@google-cloud/speech) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/google-cloud-speech-to-text.js)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/GoogleCloudSpeechToText.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/google-cloud-speech-to-text/GoogleCloudSpeechToText.kt)
 
@@ -242,7 +242,7 @@ SSML extensions:
 ### Google Cloud Text-to-Speech (Beta)
 General: [Overview](https://cloud.google.com/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/google-cloud-text-to-speech) | [Demo](https://cloud.google.com/text-to-speech/) | [Pricing](https://cloud.google.com/text-to-speech/pricing)
 
-JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-text-to-speech/google-cloud-text-to-speech.js)
+JavaScript: [NPM](https://www.npmjs.com/package/@google-cloud/text-to-speech) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-text-to-speech/google-cloud-text-to-speech.js)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-text-to-speech/GoogleCloudTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/google-cloud-text-to-speech/GoogleCloudTextToSpeech.kt)
 
