@@ -326,6 +326,8 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-vi
 ### IBM Watson Visual Recognition
 General: [Overview](https://console.bluemix.net/docs/services/visual-recognition/getting-started.htm) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/ibm-watson-visual-recognition/sample.output.json) | [Demo](https://watson-visual-recognition-duo-dev.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-visual-recognition/pricing)
 
+JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/ibm-watson-visual-recognition/ibm-watson-visual-recognition-face-detection.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/visual-recognition) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/ibm-watson-visual-recognition/IbmWatsonVisualRecognitionFaceDetection.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/ibm-watson-visual-recognition/IbmWatsonVisualRecognitionFaceDetection.kt)
 
 - Where are the faces located in the image?
