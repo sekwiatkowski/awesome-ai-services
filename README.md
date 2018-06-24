@@ -346,7 +346,7 @@ JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/fac
 ### Amazon Rekognition
 General: [Overview](https://docs.aws.amazon.com/rekognition/latest/dg/text-detection.html) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/amazon-rekognition/sample-output.json) | [Demo](https://console.aws.amazon.com/rekognition/home?region=us-east-1#/text-detection) | [Pricing](https://aws.amazon.com/rekognition/pricing/)
 
-JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/amazon-rekognition/amazon-rekognition-face-recognition.js)
+JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/amazon-rekognition/amazon-rekognition-face-detection.js)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-rekognition/1.11.351) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/amazon-rekognition/AmazonRekognitionTextRecognition.java)
 
