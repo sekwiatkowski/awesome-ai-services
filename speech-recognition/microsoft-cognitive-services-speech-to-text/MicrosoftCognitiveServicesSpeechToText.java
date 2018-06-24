@@ -1,6 +1,11 @@
 // "input" is a string holding the path to a WAV file.
 // For US English, set "languageCode" to "en-US".
 
+public class SpeechRecognitionResponse {
+    public String RecognitionStatus, DisplayText;
+    public int Offset, Duration;
+}
+
 Path inputPath = Paths.get(input);
 byte[] data = Files.readAllBytes(inputPath);
 
@@ -17,9 +22,11 @@ String sttHost = "https://westus.stt.speech.microsoft.com";
 String sstPath = String.format("/speech/recognition/conversation/cognitiveservices/v1?language=%s", languageCode);
 String sstUrl = sttHost.concat(sstPath);
 
-String response = Unirest.post(sstUrl)
+String responseString = Unirest.post(sstUrl)
     .header("Content-Type", "application/json")
     .header("Authorization", token)
     .body(data)
     .asString()
     .getBody();
+
+SpeechRecognitionResponse response = new Gson().fromJson(responseString, SpeechRecognitionResponse.class);
