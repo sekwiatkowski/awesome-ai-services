@@ -273,6 +273,8 @@ General: [Overview](https://aws.amazon.com/rekognition/image-features/) | [Sampl
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-rekognition) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/amazon-rekognition/AmazonRekognitionFaceRecognition.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/amazon-rekognition/AmazonRekognitionFaceRecognition.kt)
 
+JavaScript: [NPM](https://www.npmjs.com/package/aws-sdk) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-recognition/amazon-rekognition/amazon-rekognition-face-recognition.js)
+
 - Where are the faces and face parts located in the image?
 - What are the age ranges of the persons shown?
 - Are they smiling?
