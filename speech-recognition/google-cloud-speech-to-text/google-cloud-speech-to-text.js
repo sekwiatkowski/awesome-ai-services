@@ -6,7 +6,7 @@ const fs = require('fs');
 
 const client = new speech.SpeechClient()
 
-const file = fs.readFileSync(input
+const file = fs.readFileSync(input, 'utf-8')
 const audioBytes = file.toString('base64')
 
 const audio = {
