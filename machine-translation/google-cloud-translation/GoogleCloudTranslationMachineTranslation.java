@@ -6,7 +6,7 @@ Translate translate = TranslateOptions.getDefaultInstance().getService();
 Translation translation = translate.translate(
     input,
     Translate.TranslateOption.format("text"),
-        Translate.TranslateOption.sourceLanguage(sourceLanguage),
+    Translate.TranslateOption.sourceLanguage(sourceLanguage),
     Translate.TranslateOption.targetLanguage(targetLanguage));
 
 String translatedText = translation.getTranslatedText();
