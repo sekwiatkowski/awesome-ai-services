@@ -1,4 +1,4 @@
-// "input" is a File object pointing to the input image file.
+// "input" is a File object pointing to an image file.
 
 val content = ByteString.copyFrom(input.readBytes())
 
