@@ -102,7 +102,6 @@ General: [Overview](https://console.bluemix.net/docs/services/natural-language-u
 
 JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/ibm-watson-natural-language-understanding/ibm-watson-natural-language-understanding-keyphrase-extraction.js)
 
-
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/natural-language-understanding) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingKeyphraseExtraction.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingKeyphraseExtraction.kt)
 
 - Which keywords can be extracted for the given document?
@@ -172,6 +171,8 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-la
 
 ### IBM Watson Natural Understanding
 General: [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
+
+JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/ibm-watson-natural-language-understanding-sentiment-analysis.js)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/natural-language-understanding) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingSentimentAnalysis.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingSentimentAnalysis.kt)
 
