@@ -60,6 +60,8 @@ Supported entity types: consumer good, event, location, organization, person, wo
 ### IBM Watson Natural Understanding
 General: [Overview](https://console.bluemix.net/docs/services/natural-language-understanding/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/sample-output.json) | [Demo](https://natural-language-understanding-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-natural-language-understanding/pricing)
 
+JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/ibm-watson-natural-language-understanding-entity-recognition.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/natural-language-understanding) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingEntityRecognition.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/ibm-watson-natural-language-understanding/IbmWatsonNaturalLanguageUnderstandingEntityRecognition.kt)
 
 - What are the entities mentioned in the document?
