@@ -4,7 +4,7 @@ const nlu = new NaturalLanguageUnderstandingV1({
     username,
     password,
     version: '2018-04-05'
-});
+})
 
 const params = {
     text,
