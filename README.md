@@ -74,6 +74,8 @@ Supported entity types:
 ### Microsoft Cognitive Services Text Analytics (Preview)
 General: [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-entity-linking) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/microsoft-cognitive-services-text-analytics/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
 
+JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/microsoft-cognitive-services-text-analytics/microsoft-text-analytics-entity-recognition.js)
+
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsEntityRecognition.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsEntityRecognition.kt)
 
 - What are the entities mentioned in the document?
@@ -108,6 +110,8 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/n
 
 ### Microsoft Cognitive Services Text Analytics
 General: [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-keyword-extraction) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/microsoft-cognitive-services-text-analytics/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
+
+JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/microsoft-cognitive-services-text-analytics/microsoft-text-analytics-keyphrase-extraction.js)
 
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsKeyphraseExtraction.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/keyphrase-extraction/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsKeyphraseExtraction.kt)
 
@@ -182,6 +186,8 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/n
 
 ### Microsoft Cognitive Services Text Analytics
 General: [Overview](https://docs.microsoft.com/en-us/azure/cognitive-services/text-analytics/how-tos/text-analytics-how-to-sentiment-analysis) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/microsoft-cognitive-services-text-analytics/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
+
+JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/microsoft-cognitive-services-text-analytics/microsoft-text-analytics-sentiment-analysis.js)
 
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsSentimentAnalysis.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/microsoft-cognitive-services-text-analytics/MicrosoftCognitiveServicesTextAnalyticsSentimentAnalysis.kt)
 
