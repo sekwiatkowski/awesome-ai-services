@@ -261,7 +261,7 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-sp
 ### IBM Watson Text to Speech
 General: [Overview](https://www.ibm.com/watson/services/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/ibm-watson-text-to-speech) | [Demo](https://text-to-speech-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-text-to-speech/pricing)
 
-JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/ibm-watson-speech-to-text.js)
+JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/ibm-watson-text-to-speech.js)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/text-to-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.kt)
 
