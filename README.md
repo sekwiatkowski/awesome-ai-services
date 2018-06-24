@@ -45,6 +45,8 @@ Supported entity types: commercial items, dates, events, locations, organization
 ### Google Cloud Natural Language
 General: [Overview](https://cloud.google.com/natural-language/docs/reference/rest/v1/Entity) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloudnatural-language/sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://cloud.google.com/natural-language/pricing)
 
+JavaScript: [NPM](https://www.npmjs.com/package/@google-cloud/language) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language/google-cloud-natural-language-entity-recognition.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language/GoogleCloudNaturalLanguageEntityRecognition.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/entity-recognition/google-cloud-natural-language/GoogleCloudNaturalLanguageEntityRecognition.kt)
 
 - What are the entities mentioned in the document?
@@ -122,6 +124,8 @@ Support for [seven languages](https://aws.amazon.com/translate/details/)
 ### Google Cloud Translation API
 General: [Overview](https://cloud.google.com/translate/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.java) | [Demo](https://cloud.google.com/translate/#translate_demo_section) | [Pricing](https://cloud.google.com/translate/pricing)
 
+JavaScript: [NPM](https://www.npmjs.com/package/@google-cloud/translate) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/google-cloud-translation-machine-translation.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-translate) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/google-cloud-translation/GoogleCloudTranslationMachineTranslation.kt)
 
 Support for [98 language pairs](https://cloud.google.com/translate/docs/languages#languages-nmt) in neural machine translation model
@@ -154,6 +158,8 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.amazonaws/aws-java-sdk-compr
 
 ### Google Cloud Natural Language
 General: [Overview](https://cloud.google.com/natural-language/docs/analyzing-sentiment) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/sample-output.json) | [Demo](https://cloud.google.com/natural-language/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/text-analytics/)
+
+JavaScript: [NPM](https://www.npmjs.com/package/@google-cloud/language) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/google-cloud-natural-language-sentiment-analysis.js)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-language) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/GoogleCloudNaturalLanguageSentimentAnalysis.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/sentiment-analysis/google-cloud-natural-language/GoogleCloudNaturalLanguageSentimentAnalysis.kt)
 
