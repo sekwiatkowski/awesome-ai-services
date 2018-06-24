@@ -346,7 +346,7 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/v
 - What are the age ranges of the persons shown?
 - What are their genders?
 
-### Microsoft Cognitive Service Face
+### Microsoft Cognitive Services Face
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/microsoft-cognitive-services-face/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
 
 JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/microsoft-cognitive-services-face/microsoft-cognitive-services-face-face-detection.js)
