@@ -3,7 +3,7 @@
 val client = SpeechToText(username, password)
 
 val options = RecognizeOptions.Builder()
-    .audio(inputFile)
+    .audio(audio)
     .contentType(HttpMediaType.AUDIO_MP3)
     .build()
 
