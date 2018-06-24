@@ -349,6 +349,8 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/v
 ### Microsoft Cognitive Service Face
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/microsoft-cognitive-services-face/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/face/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/face-api/)
 
+JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/microsoft-cognitive-services-face/microsoft-cognitive-services-face-face-detection.js)
+
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/microsoft-cognitive-services-face/MicrosoftCognitiveServicesFaceFaceDetection.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/face-detection/microsoft-cognitive-services-face/MicrosoftCognitiveServicesFaceFaceDetection.kt)
 
 - What are the faces and face parts located in the image?
