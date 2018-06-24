@@ -1,4 +1,4 @@
-String input = "C:\\Users\\Sebastian\\Downloads\\beautiful-beauty-casual-762020.jpg";
+// "input" is a string containing the path to an image file.
 
 Path path = Paths.get(input);
 byte[] bytes = Files.readAllBytes(path);
