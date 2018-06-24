@@ -1,6 +1,12 @@
 // "input" is a File pointing to an audio file.
 // For US English, set "languageCode" to "en-US".
 
+data class SpeechRecognitionResponse(
+    val RecognitionStatus: String,
+    val DisplayText: String?,
+    val Offset: Int?,
+    val Duration: Int?)
+
 val bytes = inputFile.readBytes()
 
 val tokenHost = "https://westus.api.cognitive.microsoft.com"
@@ -22,3 +28,5 @@ val response = Unirest.post(sstUrl)
     .body(bytes)
     .asString()
     .body
+
+val response = Gson().fromJson(responseString, SpeechRecognitionResponse::class.java)
