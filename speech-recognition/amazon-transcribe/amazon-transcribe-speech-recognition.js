@@ -26,7 +26,11 @@ const repeatUntilCompleted = cb => {
             cb(job.Transcript.TranscriptFileUri)
         }
         else if (status === 'IN_PROGRESS') {
-            setTimeout(repeatUntilCompleted, 1000)
+            setTimeout(
+                function () {
+                    repeatUntilCompleted(cb)
+                },
+                1000)
         }
     })
 }
