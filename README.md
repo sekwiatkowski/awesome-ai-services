@@ -150,6 +150,8 @@ Support for [33 language pairs](https://console.bluemix.net/docs/services/langua
 ### Microsoft Cognitive Services Translator Text
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/translator-text-api/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/sample-output.txt) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/translator-text-api/)
 
+JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/microsoft-translator-text-machine-translation.js)
+
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/MicrosoftTranslatorTextMachineTranslation.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/MicrosoftTranslatorTextMachineTranslation.kt)
 
 Support for [39 language pairs](https://docs.microsoft.com/en-us/azure/cognitive-services/translator/languages) 
@@ -229,6 +231,8 @@ Support for 9 languages
 ### Microsoft Cognitive Services Speech to Text (Preview)
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/microsoft-cognitive-services-speech-to-text/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/speech-to-text/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
 
+JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/microsoft-cognitive-services-speech-to-text/microsoft-cognitive-services-speech-recognition.js)
+
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/microsoft-cognitive-services-speech-to-text/MicrosoftCognitiveServicesSpeechToText.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/microsoft-cognitive-services-speech-to-text/MicrosoftCognitiveServicesSpeechToText.kt)
 
 The REST API is limited to utterances of up to [14 seconds](https://docs.microsoft.com/gl-es/azure/cognitive-services/speech-service/rest-apis#speech-to-text).
@@ -286,6 +290,8 @@ Customization:
 
 ### Microsoft Cognitive Services Text to Speech (Preview)
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/microsoft-cognitive-services) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/speech-services/)
+
+JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/microsoft-cognitive-services-text-to-speech/microsoft-cognitive-services-speech-synthesis.js)
 
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/microsoft-cognitive-services-text-to-speech/MicrosoftCognitiveServicesTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/microsoft-cognitive-services-text-to-speech/MicrosoftCognitiveServicesTextToSpeech.kt)
 
