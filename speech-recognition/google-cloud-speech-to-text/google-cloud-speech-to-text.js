@@ -2,7 +2,7 @@
 // For US English, set "languageCode" to "en-US".
 
 const speech = require('@google-cloud/speech')
-const fs = require('fs');
+const fs = require('fs')
 
 const client = new speech.SpeechClient()
 
