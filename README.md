@@ -214,6 +214,8 @@ Support for 119 languages/locales
 ### IBM Speech to Text
 General: [Overview](https://www.ibm.com/watson/services/speech-to-text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/sample-output.json) | [Demo](https://speech-to-text-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-speech-to-text/pricing)
 
+JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/ibm-watson-speech-to-text.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/speech-to-text) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/IbmWatsonSpeechToText.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-recognition/ibm-watson-speech-to-text/IbmWatsonSpeechToText.kt)
 
 Support for 9 languages
@@ -258,6 +260,8 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-sp
 
 ### IBM Watson Text to Speech
 General: [Overview](https://www.ibm.com/watson/services/text-to-speech/) | [Sample output](https://soundcloud.com/sebastian-e-kwiatkowski/sets/ibm-watson-text-to-speech) | [Demo](https://text-to-speech-demo.ng.bluemix.net/) | [Pricing](https://www.ibm.com/cloud/watson-text-to-speech/pricing)
+
+JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/ibm-watson-speech-to-text.js)
 
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/text-to-speech) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/speech-synthesis/ibm-watson-text-to-speech/IbmWatsonTextToSpeech.kt)
 
