@@ -5,7 +5,7 @@ const language = require('@google-cloud/language')
 const client = new language.LanguageServiceClient()
 
 const document = {
-    content: content,
+    content,
     type: 'PLAIN_TEXT'
 }
 
