@@ -137,6 +137,8 @@ Support for [98 language pairs](https://cloud.google.com/translate/docs/language
 ### IBM Watson Language Translator
 General: [Overview](https://www.ibm.com/watson/services/language-translator/) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/sample-output.txt) | [Demo](https://www.ibm.com/watson/services/language-translator/#demo) | [Price](https://www.ibm.com/cloud/watson-language-translator/pricing)
 
+JavaScript: [NPM](https://www.npmjs.com/package/watson-developer-cloud) | [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/ibm-watson-language-translator/ibm-watson-language-translator-machine-translation.js)
+
 JVM: [Maven](https://mvnrepository.com/artifact/com.ibm.watson.developer_cloud/language-translator) | [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/MicrosoftTranslatorTextMachineTranslation.java) | [Kotlin](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/machine-translation/microsoft-translator-text/MicrosoftTranslatorTextMachineTranslation.kt)
 
 Support for [33 language pairs](https://console.bluemix.net/docs/services/language-translator/translation-models.html#translation-models)
