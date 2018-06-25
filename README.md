@@ -399,6 +399,8 @@ JVM: [Maven](https://mvnrepository.com/artifact/com.google.cloud/google-cloud-vi
 ### Microsoft Cognitive Services Computer Vision
 General: [Overview](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Sample output](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/microsoft-cognitive-services-computer-vision/sample-output.json) | [Demo](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#text) | [Pricing](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/)
 
+JavaScript: [Node](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/microsoft-cognitive-services-computer-vision/microsoft-cognitive-services-cv-text-recognition.js)
+
 JVM: [Java](https://github.com/sekwiatkowski/awesome-ai-services/blob/master/text-recognition/microsoft-cognitive-services-computer-vision/MicrosoftCognitiveServicesComputerVisionTextRecognition.java)
 
 - Where in the image file is text located?
